@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning Digest - Personalized News</title>
+    <link>https://CarlosVitorino.github.io/morning-digest/</link>
+    <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Feb 2026 01:28:45 GMT</lastBuildDate>
+    <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Scientists create smart synthetic skin that can hide images and change shape</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206034836.htm</link>
+      <description>Inspired by the shape-shifting skin of octopuses, Penn State researchers developed a smart hydrogel that can change appearance, texture, and shape on command. The material is programmed using a special printing technique that embeds digital instructions directly into the skin. Images and information can remain invisible until triggered by heat, liquids, or stretching.</description>
+      <pubDate>Fri, 06 Feb 2026 16:09:31 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>A hidden brain effect of prenatal alcohol exposure</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206020852.htm</link>
+      <description>New research using rhesus monkeys suggests that the brain’s relationship with alcohol may begin forming long before a person ever takes a drink. Scientists found that exposure to alcohol before birth reshaped the brain’s dopamine system, a key player in motivation and reward, and those changes were linked to faster drinking later in adulthood.</description>
+      <pubDate>Fri, 06 Feb 2026 10:26:39 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Scientists found a sugar that could defeat deadly superbugs</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206020850.htm</link>
+      <description>Scientists in Australia have uncovered a clever new way to fight some of the most dangerous drug-resistant bacteria by targeting a sugar that exists only on bacterial cells. By designing antibodies that recognize this unique sugar, researchers were able to guide the immune system to attack and eliminate deadly infections that normally shrug off antibiotics.</description>
+      <pubDate>Fri, 06 Feb 2026 09:09:04 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>An invisible chemical rain is falling across the planet</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206020847.htm</link>
+      <description>A new study reveals that chemicals used to replace ozone-damaging CFCs are now driving a surge in a persistent “forever chemical” worldwide. The pollutant, called trifluoroacetic acid, is falling out of the atmosphere into water, land, and ice, including in remote regions like the Arctic. Even as older chemicals are phased out, their long lifetimes mean pollution is still rising.</description>
+      <pubDate>Fri, 06 Feb 2026 08:17:32 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Why colorectal cancer breaks the immune system’s rules</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206012229.htm</link>
+      <description>Colorectal cancer has long baffled scientists because, unlike most tumors, patients often do better when their cancers are packed with immune-suppressing regulatory T cells. New research finally explains why. Scientists discovered that these T cells aren’t all the same: one subtype actually helps keep tumors in check, while another shields cancer from immune attack. The balance between these “good” and “bad” cells can determine whether a tumor grows or shrinks.</description>
+      <pubDate>Fri, 06 Feb 2026 16:03:34 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Scientists found a hidden fat switch and turned it off</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206012226.htm</link>
+      <description>Researchers have discovered a previously unknown enzyme that plays a crucial role in fat production. By blocking it, they stopped weight gain, reduced liver damage, and lowered harmful cholesterol levels in animal studies. The finding opens the door to a new kind of medication that could tackle obesity, fatty liver disease, and cardiovascular disease all at once.</description>
+      <pubDate>Fri, 06 Feb 2026 16:27:35 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>A clever quantum trick brings practical quantum computers closer</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206012208.htm</link>
+      <description>Quantum computers struggle because their qubits are incredibly easy to disrupt, especially during calculations. A new experiment shows how to perform quantum operations while continuously fixing errors, rather than pausing protection to compute. The team used a method called lattice surgery to split a protected qubit into two entangled ones without losing control. This breakthrough moves quantum machines closer to scaling up into something truly powerful.</description>
+      <pubDate>Fri, 06 Feb 2026 14:10:15 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Doctors test brain cell implants to restore movement in Parkinson’s</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260206012203.htm</link>
+      <description>Scientists at Keck Medicine of USC are testing an experimental stem cell therapy that aims to restore the brain’s ability to produce dopamine, the chemical whose loss drives Parkinson’s disease. The early-stage clinical trial involves implanting lab-grown dopamine-producing cells directly into a key movement-control region of the brain, with the hope of slowing disease progression and improving motor function.</description>
+      <pubDate>Fri, 06 Feb 2026 11:57:35 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Scientists discover hidden deep-Earth structures shaping the magnetic field</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260205050039.htm</link>
+      <description>Deep inside Earth, two massive hot rock structures have been quietly shaping the planet’s magnetic field for millions of years. Using ancient magnetic records and advanced simulations, scientists discovered that these formations influence the movement of liquid iron in Earth’s core. Some parts of the magnetic field remained stable over vast stretches of time, while others changed dramatically.</description>
+      <pubDate>Thu, 05 Feb 2026 10:53:59 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Air ambulance teams are changing who survives critical injuries</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260205025026.htm</link>
+      <description>Advanced care provided by air ambulance teams was linked to higher survival rates in major trauma patients. Researchers found that more people survived than predicted by standard models, including many with severe injuries and low chances of survival. Younger patients and those more responsive at first assessment benefited most. Outcomes for traumatic cardiac arrest also improved steadily over the study period.</description>
+      <pubDate>Thu, 05 Feb 2026 07:56:53 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Mars’ water mystery may have a simple ice answer</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121552.htm</link>
+      <description>Scientists have found that ancient Martian lakes could have survived for decades despite freezing air temperatures. Using a newly adapted climate model, researchers showed that thin, seasonal ice could trap heat and protect liquid water beneath. These lakes may have gently melted and refrozen each year without ever freezing solid. The idea helps solve a long-standing mystery about how Mars shows so much evidence of water without signs of a warm climate.</description>
+      <pubDate>Fri, 06 Feb 2026 06:21:29 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>A new scan lets scientists see inside the human body in 3D color</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121550.htm</link>
+      <description>A new imaging breakthrough combines ultrasound and light-based techniques to generate vivid 3D images that show both tissue structure and blood vessel activity. Developed by researchers at Caltech and USC, the system delivers detailed results quickly and without radiation or contrast dyes. It has already been used to image multiple parts of the human body. The approach could significantly improve cancer detection, nerve-damage monitoring, and brain imaging.</description>
+      <pubDate>Fri, 06 Feb 2026 05:11:23 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Scientists uncover why psoriasis can turn into joint disease</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121549.htm</link>
+      <description>Researchers have figured out how psoriasis can quietly turn into joint disease for some patients. Immune cells formed in inflamed skin can travel through the blood and reach the joints, where they sometimes trigger inflammation. The key difference lies in the joint’s ability to keep those cells in check. This insight could help doctors identify warning signs early and prevent lasting joint damage.</description>
+      <pubDate>Thu, 05 Feb 2026 15:44:32 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>This simple diet shift cut 330 calories a day without smaller meals</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121547.htm</link>
+      <description>People who switch to a fully unprocessed diet don’t just eat differently—they eat smarter. Research from the University of Bristol shows that when people avoid ultra-processed foods, they naturally pile their plates with fruits and vegetables, eating over 50% more food by weight while still consuming hundreds fewer calories each day. This happens because whole foods trigger a kind of built-in “nutritional intelligence,” nudging people toward nutrient-rich, lower-calorie options.</description>
+      <pubDate>Thu, 05 Feb 2026 15:04:34 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>A superfluid freezes and breaks the rules of physics</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121545.htm</link>
+      <description>Physicists have watched a quantum fluid do something once thought almost impossible: stop moving. In experiments with ultra-thin graphene, researchers observed a superfluid—normally defined by its endless, frictionless flow—freeze into a strange new state that looks solid yet still belongs to the quantum world. This long-sought phase, known as a supersolid, blends crystal-like order with superfluid behavior and has puzzled scientists for decades.</description>
+      <pubDate>Fri, 06 Feb 2026 04:15:38 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Doctors may be missing early signs of kidney disease</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121543.htm</link>
+      <description>Kidney disease often creeps in silently, and many patients aren’t diagnosed until major damage is already done. New research shows that even “normal” kidney test results can signal danger if they’re unusually low for someone’s age. By mapping kidney function across the population, scientists revealed who’s quietly at higher risk. A new online tool could help doctors catch these warning signs years earlier.</description>
+      <pubDate>Thu, 05 Feb 2026 13:28:40 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Endangered sea turtles hear ship noise loud and clear</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121542.htm</link>
+      <description>Kemp’s ridley sea turtles, one of the most endangered sea turtle species on Earth, live in some of the noisiest waters on the planet, right alongside major shipping routes. New research reveals that these turtles are especially sensitive to low-frequency sounds—the same rumbling tones produced by ships and industrial activity underwater.</description>
+      <pubDate>Thu, 05 Feb 2026 12:37:25 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Scientists just mapped the mutations that power cancer growth</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121540.htm</link>
+      <description>Researchers have created the first complete map showing how hundreds of mutations in a key cancer gene affect tumor growth. By testing every possible mutation in a critical hotspot, they found that some changes barely boost cancer signals, while others supercharge them. When matched against real patient data, the map accurately predicted cancer behavior across tissues.</description>
+      <pubDate>Thu, 05 Feb 2026 12:29:14 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>This paper-thin chip turns invisible light into a steerable beam</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121538.htm</link>
+      <description>Researchers have built a paper-thin chip that converts infrared light into visible light and directs it precisely, all without mechanical motion. The design overcomes a long-standing efficiency-versus-control problem in light-shaping materials. This opens the door to tiny, highly efficient light sources integrated directly onto chips.</description>
+      <pubDate>Fri, 06 Feb 2026 04:39:29 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>This ultra-thin surface controls light in two completely different ways</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204121536.htm</link>
+      <description>A new metasurface design lets light of different spins bend, focus, and behave independently—while staying sharp across many colors. The trick combines two geometric phase effects so each spin channel can be tuned without interfering with the other. Researchers demonstrated stable beam steering and dual-focus lenses over wide frequency ranges. The approach could scale from microwaves all the way to visible light.</description>
+      <pubDate>Thu, 05 Feb 2026 06:59:59 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>A new way to control light could boost future wireless tech</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204114540.htm</link>
+      <description>A new optical device allows researchers to generate and switch between two stable, donut-shaped light patterns called skyrmions. These light vortices hold their shape even when disturbed, making them promising for wireless data transmission. Using a specially designed metasurface and controlled laser pulses, scientists can flip between electric and magnetic modes. The advance could help pave the way for more resilient terahertz communication systems.</description>
+      <pubDate>Wed, 04 Feb 2026 16:51:31 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>New nasal vaccine shows strong protection against H5N1 bird flu</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204114343.htm</link>
+      <description>As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.</description>
+      <pubDate>Wed, 04 Feb 2026 16:43:43 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Two-month-old babies are already making sense of the world</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204114144.htm</link>
+      <description>At just two months old, babies are already organizing the world in their minds. Brain scans revealed distinct patterns as infants looked at pictures of animals, toys, and everyday objects, showing early category recognition. Scientists used AI to help decode these patterns, offering a rare glimpse into infant thinking. The results suggest babies begin learning and understanding far sooner than expected.</description>
+      <pubDate>Thu, 05 Feb 2026 05:14:20 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Melting Antarctic ice may weaken a major carbon sink</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260204042457.htm</link>
+      <description>Melting ice from West Antarctica once delivered huge amounts of iron to the Southern Ocean, but algae growth did not increase as expected. Researchers found the iron was in a form that marine life could not easily use. This means more melting ice does not automatically boost carbon absorption. In the future, Antarctic ice loss could actually reduce the ocean’s ability to slow climate change.</description>
+      <pubDate>Wed, 04 Feb 2026 09:32:51 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>MIT&amp;#039;s new brain tool could finally explain consciousness</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260203030554.htm</link>
+      <description>Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery. Researchers at MIT are exploring transcranial focused ultrasound, a noninvasive technology that can precisely stimulate deep regions of the brain that were previously off-limits. In a new “roadmap” paper, they explain how this method could finally let scientists test cause-and-effect in consciousness research, not just observe correlations.</description>
+      <pubDate>Wed, 04 Feb 2026 12:42:40 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>The overlooked nutrition risk of Ozempic and Wegovy</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260203030551.htm</link>
+      <description>Popular weight-loss drugs like Ozempic and Wegovy can dramatically curb appetite, but experts warn many users are flying blind when it comes to nutrition. New research suggests people taking these medications may not be getting enough guidance on protein, vitamins, and overall diet quality, increasing the risk of muscle loss and nutrient deficiencies.</description>
+      <pubDate>Wed, 04 Feb 2026 15:43:08 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>New catalyst turns carbon dioxide into clean fuel source</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260203030548.htm</link>
+      <description>Researchers have found that manganese, an abundant and inexpensive metal, can be used to efficiently convert carbon dioxide into formate, a potential hydrogen source for fuel cells. The key was a clever redesign that made the catalyst last far longer than similar low-cost materials. Surprisingly, the improved manganese catalyst even beat many expensive precious-metal options. The discovery could help turn greenhouse gas into clean energy ingredients.</description>
+      <pubDate>Tue, 03 Feb 2026 11:08:34 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>This unexpected plant discovery could change how drugs are made</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260203030546.htm</link>
+      <description>Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The insight could help scientists discover new drugs and produce them more sustainably.</description>
+      <pubDate>Tue, 03 Feb 2026 15:06:55 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>A 25-year study found an unexpected link between cheese and dementia</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260203030540.htm</link>
+      <description>A massive Swedish study tracking nearly 28,000 people for 25 years found an unexpected link between full-fat dairy and brain health. Among adults without a genetic risk for Alzheimer’s, eating more full-fat cheese was associated with a noticeably lower risk of developing the disease, while higher cream intake was tied to reduced dementia risk overall. The findings challenge decades of low-fat dietary advice but come with important caveats.</description>
+      <pubDate>Wed, 04 Feb 2026 14:44:17 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+
+    <item>
+      <title>Why heart disease risk in type 2 diabetes looks different for men and women</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260203030537.htm</link>
+      <description>Scientists are digging into why heart disease risk in type 2 diabetes differs between men and women—and sex hormones may be part of the story. In a large Johns Hopkins study, men with higher testosterone had lower heart disease risk, while rising estradiol levels were linked to higher risk. These hormone effects were not seen in women. The results point toward more personalized approaches to heart disease prevention in diabetes.</description>
+      <pubDate>Wed, 04 Feb 2026 07:21:09 GMT</pubDate>
+      <category>science</category>
+      <source>Science Daily</source>
+    </item>
+  </channel>
+</rss>
