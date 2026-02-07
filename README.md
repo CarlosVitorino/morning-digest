@@ -2,14 +2,15 @@
 
 Your personalized morning news digest with intelligent clickbait filtering.
 
-## Topics Covered
+## Topics Covered (Prioritized)
 
-- 🚀 **Technology** - The Verge, TechCrunch, Wired, Ars Technica
+- 🤖 **AI & Machine Learning** (Highest Priority) - OpenAI Blog, MIT Technology Review, Google AI Blog
+- 🚀 **Technology** - The Verge, TechCrunch, Wired, Ars Technica, Guardian Tech
+- 💻 **Software Development** - Hacker News, GitHub Blog, Stack Overflow, Dev.to, freeCodeCamp
+- 📱 **Gadgets** - Gizmodo, Engadget, CNET
+- 🇪🇺 **EU Politics** - Politico Europe, EurActiv, Euronews
+- 🌍 **International News** - BBC World, NY Times World, Guardian World, Al Jazeera
 - 🔬 **Science** - Science Daily, Nature
-- 💼 **Business** - BBC Business, Reuters
-- 🏛️ **Politics** - BBC Politics, Politico
-- 💻 **Software Development** - Hacker News, Dev.to
-- 📱 **Gadgets** - Gizmodo, Engadget
 
 ## Features
 

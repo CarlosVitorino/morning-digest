@@ -5,277 +5,367 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 01:28:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 13:55:53 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Scientists create smart synthetic skin that can hide images and change shape</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206034836.htm</link>
-      <description>Inspired by the shape-shifting skin of octopuses, Penn State researchers developed a smart hydrogel that can change appearance, texture, and shape on command. The material is programmed using a special printing technique that embeds digital instructions directly into the skin. Images and information can remain invisible until triggered by heat, liquids, or stretching.</description>
-      <pubDate>Fri, 06 Feb 2026 16:09:31 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
+      <link>https://openai.com/index/introducing-aardvark</link>
+      <description>OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.</description>
+      <pubDate>Thu, 30 Oct 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>A hidden brain effect of prenatal alcohol exposure</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206020852.htm</link>
-      <description>New research using rhesus monkeys suggests that the brain’s relationship with alcohol may begin forming long before a person ever takes a drink. Scientists found that exposure to alcohol before birth reshaped the brain’s dopamine system, a key player in motivation and reward, and those changes were linked to faster drinking later in adulthood.</description>
-      <pubDate>Fri, 06 Feb 2026 10:26:39 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>OpenAI acquires Software Applications Incorporated, maker of Sky</title>
+      <link>https://openai.com/index/openai-acquires-software-applications-incorporated</link>
+      <description>OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.</description>
+      <pubDate>Thu, 23 Oct 2025 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Scientists found a sugar that could defeat deadly superbugs</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206020850.htm</link>
-      <description>Scientists in Australia have uncovered a clever new way to fight some of the most dangerous drug-resistant bacteria by targeting a sugar that exists only on bacterial cells. By designing antibodies that recognize this unique sugar, researchers were able to guide the immune system to attack and eliminate deadly infections that normally shrug off antibiotics.</description>
-      <pubDate>Fri, 06 Feb 2026 09:09:04 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Customizable, no-code voice agent automation with GPT-4o</title>
+      <link>https://openai.com/index/retell-ai</link>
+      <description>Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.</description>
+      <pubDate>Thu, 26 Jun 2025 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>An invisible chemical rain is falling across the planet</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206020847.htm</link>
-      <description>A new study reveals that chemicals used to replace ozone-damaging CFCs are now driving a surge in a persistent “forever chemical” worldwide. The pollutant, called trifluoroacetic acid, is falling out of the atmosphere into water, land, and ice, including in remote regions like the Arctic. Even as older chemicals are phased out, their long lifetimes mean pollution is still rising.</description>
-      <pubDate>Fri, 06 Feb 2026 08:17:32 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Surging developer productivity with custom GPTs</title>
+      <link>https://openai.com/index/paf</link>
+      <description>Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning busin</description>
+      <pubDate>Tue, 18 Jun 2024 08:45:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Why colorectal cancer breaks the immune system’s rules</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206012229.htm</link>
-      <description>Colorectal cancer has long baffled scientists because, unlike most tumors, patients often do better when their cancers are packed with immune-suppressing regulatory T cells. New research finally explains why. Scientists discovered that these T cells aren’t all the same: one subtype actually helps keep tumors in check, while another shields cancer from immune attack. The balance between these “good” and “bad” cells can determine whether a tumor grows or shrinks.</description>
-      <pubDate>Fri, 06 Feb 2026 16:03:34 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Automating customer support agents</title>
+      <link>https://openai.com/index/mavenagi</link>
+      <description>MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.</description>
+      <pubDate>Wed, 29 May 2024 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Scientists found a hidden fat switch and turned it off</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206012226.htm</link>
-      <description>Researchers have discovered a previously unknown enzyme that plays a crucial role in fat production. By blocking it, they stopped weight gain, reduced liver damage, and lowered harmful cholesterol levels in animal studies. The finding opens the door to a new kind of medication that could tackle obesity, fatty liver disease, and cardiovascular disease all at once.</description>
-      <pubDate>Fri, 06 Feb 2026 16:27:35 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Microsoft invests in and partners with OpenAI to support us building beneficial AGI</title>
+      <link>https://openai.com/index/microsoft-invests-in-and-partners-with-openai</link>
+      <description>Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI) with widely distributed economic benefits. We’re partnering to develop a hardware and software platform within Microsoft Azure which will scale to AGI. We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider—so we’ll be working hard together to further extend Microsoft Azure’s capabilities in large-scale AI systems.</description>
+      <pubDate>Mon, 22 Jul 2019 07:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>A clever quantum trick brings practical quantum computers closer</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206012208.htm</link>
-      <description>Quantum computers struggle because their qubits are incredibly easy to disrupt, especially during calculations. A new experiment shows how to perform quantum operations while continuously fixing errors, rather than pausing protection to compute. The team used a method called lattice surgery to split a protected qubit into two entangled ones without losing control. This breakthrough moves quantum machines closer to scaling up into something truly powerful.</description>
-      <pubDate>Fri, 06 Feb 2026 14:10:15 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Generative AI to quantify uncertainty in weather forecasting</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-1569605132526995799</link>
+      <description>Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting people in the face of hazardous weather conditions. The importance of accurate and timely weather forecasts will only increase as the climate changes. Recognizing this, we at Google have been invest</description>
+      <pubDate>Fri, 29 Mar 2024 18:03:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Doctors test brain cell implants to restore movement in Parkinson’s</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260206012203.htm</link>
-      <description>Scientists at Keck Medicine of USC are testing an experimental stem cell therapy that aims to restore the brain’s ability to produce dopamine, the chemical whose loss drives Parkinson’s disease. The early-stage clinical trial involves implanting lab-grown dopamine-producing cells directly into a key movement-control region of the brain, with the hope of slowing disease progression and improving motor function.</description>
-      <pubDate>Fri, 06 Feb 2026 11:57:35 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-1799535679952845079</link>
+      <description>Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data&apos;s patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are ext</description>
+      <pubDate>Thu, 28 Mar 2024 20:53:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Scientists discover hidden deep-Earth structures shaping the magnetic field</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260205050039.htm</link>
-      <description>Deep inside Earth, two massive hot rock structures have been quietly shaping the planet’s magnetic field for millions of years. Using ancient magnetic records and advanced simulations, scientists discovered that these formations influence the movement of liquid iron in Earth’s core. Some parts of the magnetic field remained stable over vast stretches of time, while others changed dramatically.</description>
-      <pubDate>Thu, 05 Feb 2026 10:53:59 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Computer-aided diagnosis for lung cancer screening</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-7061041222399769838</link>
+      <description>Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed tomography (CT), which provides a detailed 3D image of the lungs, has been shown to reduce mortality in high-risk populations by at least 20% by detecting potential signs of cancers earlier. In the US</description>
+      <pubDate>Wed, 20 Mar 2024 20:54:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Air ambulance teams are changing who survives critical injuries</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260205025026.htm</link>
-      <description>Advanced care provided by air ambulance teams was linked to higher survival rates in major trauma patients. Researchers found that more people survived than predicted by standard models, including many with severe injuries and low chances of survival. Younger patients and those more responsive at first assessment benefited most. Outcomes for traumatic cardiac arrest also improved steadily over the study period.</description>
-      <pubDate>Thu, 05 Feb 2026 07:56:53 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Using AI to expand global access to reliable flood forecasts</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-4615278636568583418</link>
+      <description>Posted by Yossi Matias, VP Engineering &amp;amp; Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the year 2000 partly due to climate change . Nearly 1.5 billion people , making up 19% of the world’s population, are exposed to substantial risks from severe flood events. Upgrading early warning s</description>
+      <pubDate>Wed, 20 Mar 2024 16:06:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Mars’ water mystery may have a simple ice answer</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121552.htm</link>
-      <description>Scientists have found that ancient Martian lakes could have survived for decades despite freezing air temperatures. Using a newly adapted climate model, researchers showed that thin, seasonal ice could trap heat and protect liquid water beneath. These lakes may have gently melted and refrozen each year without ever freezing solid. The idea helps solve a long-standing mystery about how Mars shows so much evidence of water without signs of a warm climate.</description>
-      <pubDate>Fri, 06 Feb 2026 06:21:29 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>ScreenAI: A visual language model for UI and visually-situated language understanding</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-520087429457973735</link>
+      <description>Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. UIs and infographics share similar design principles and visual language (e.g., icons and layouts), that offer an opportunity to build a single model that can understand, reason, and interact with the</description>
+      <pubDate>Tue, 19 Mar 2024 20:15:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>A new scan lets scientists see inside the human body in 3D color</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121550.htm</link>
-      <description>A new imaging breakthrough combines ultrasound and light-based techniques to generate vivid 3D images that show both tissue structure and blood vessel activity. Developed by researchers at Caltech and USC, the system delivers detailed results quickly and without radiation or contrast dyes. It has already been used to image multiple parts of the human body. The approach could significantly improve cancer detection, nerve-damage monitoring, and brain imaging.</description>
-      <pubDate>Fri, 06 Feb 2026 05:11:23 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>SCIN: A new resource for representative dermatology images</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-4328167517765145678</link>
+      <description>Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology conditions are diverse in their appearance and severity and manifest differently across skin tones. Yet, existing dermatology image datasets often lack representation of everyday conditions (like rashes, allergies and infections) and skew towards lighter skin tones. Fu</description>
+      <pubDate>Tue, 19 Mar 2024 15:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Scientists uncover why psoriasis can turn into joint disease</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121549.htm</link>
-      <description>Researchers have figured out how psoriasis can quietly turn into joint disease for some patients. Immune cells formed in inflamed skin can travel through the blood and reach the joints, where they sometimes trigger inflammation. The key difference lies in the joint’s ability to keep those cells in check. This insight could help doctors identify warning signs early and prevent lasting joint damage.</description>
-      <pubDate>Thu, 05 Feb 2026 15:44:32 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>MELON: Reconstructing 3D objects from images with unknown poses</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-757976001746578714</link>
+      <description>Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person&apos;s prior experience and understanding of the world generally enables them to easily infer what an object looks like in whole, even if only looking at a few 2D pictures of it. Yet the capacity for a computer to reconstruct the shape of an object in 3D given only a few images has remained a difficult algorithmic problem for years. This fundamental computer vision task has applications r</description>
+      <pubDate>Mon, 18 Mar 2024 18:41:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>This simple diet shift cut 330 calories a day without smaller meals</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121547.htm</link>
-      <description>People who switch to a fully unprocessed diet don’t just eat differently—they eat smarter. Research from the University of Bristol shows that when people avoid ultra-processed foods, they naturally pile their plates with fruits and vegetables, eating over 50% more food by weight while still consuming hundreds fewer calories each day. This happens because whole foods trigger a kind of built-in “nutritional intelligence,” nudging people toward nutrient-rich, lower-calorie options.</description>
-      <pubDate>Thu, 05 Feb 2026 15:04:34 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Cappy: Outperforming and boosting large multi-task language models with a small scorer</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-7868032799856333119</link>
+      <description>Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, such as T0 , FLAN , and OPT-IML . First, multi-task data is gathered with each task following a task-specific template, where each labeled example is converted into an instruction (e.g., &quot; Put the concep</description>
+      <pubDate>Thu, 14 Mar 2024 19:38:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>A superfluid freezes and breaks the rules of physics</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121545.htm</link>
-      <description>Physicists have watched a quantum fluid do something once thought almost impossible: stop moving. In experiments with ultra-thin graphene, researchers observed a superfluid—normally defined by its endless, frictionless flow—freeze into a strange new state that looks solid yet still belongs to the quantum world. This long-sought phase, known as a supersolid, blends crystal-like order with superfluid behavior and has puzzled scientists for decades.</description>
-      <pubDate>Fri, 06 Feb 2026 04:15:38 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Talk like a graph: Encoding graphs for large language models</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-6090481872694489715</link>
+      <description>Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer science, the term graph is used to describe connections between objects. Graphs consist of nodes (the objects themselves) and edges (connections between two nodes, indicating a relationship between them). Graphs are everywhere now. The internet itself is a gian</description>
+      <pubDate>Tue, 12 Mar 2024 21:15:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Doctors may be missing early signs of kidney disease</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121543.htm</link>
-      <description>Kidney disease often creeps in silently, and many patients aren’t diagnosed until major damage is already done. New research shows that even “normal” kidney test results can signal danger if they’re unusually low for someone’s age. By mapping kidney function across the population, scientists revealed who’s quietly at higher risk. A new online tool could help doctors catch these warning signs years earlier.</description>
-      <pubDate>Thu, 05 Feb 2026 13:28:40 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Chain-of-table: Evolving tables in the reasoning chain for table understanding</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-470840348983280912</link>
+      <description>Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessible format. Due to the ubiquity of such tables, reasoning over tabular data has long been a central topic in natural language processing (NLP). Researchers in this field have aimed to leverage language models to help users answer questions, verify statements, and analyze data based on tables. However</description>
+      <pubDate>Mon, 11 Mar 2024 19:08:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Endangered sea turtles hear ship noise loud and clear</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121542.htm</link>
-      <description>Kemp’s ridley sea turtles, one of the most endangered sea turtle species on Earth, live in some of the noisiest waters on the planet, right alongside major shipping routes. New research reveals that these turtles are especially sensitive to low-frequency sounds—the same rumbling tones produced by ships and industrial activity underwater.</description>
-      <pubDate>Thu, 05 Feb 2026 12:37:25 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Health-specific embedding tools for dermatology and pathology</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-1106624361649572376</link>
+      <description>Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation across specialties including radiology , dermatology and pathology . Machine learning (ML) technology can help ease this burden by powering tools that enable doctors to interpret these images more accurately and efficiently. However, the development and implementation of such ML tools are often limit</description>
+      <pubDate>Fri, 08 Mar 2024 19:33:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Scientists just mapped the mutations that power cancer growth</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121540.htm</link>
-      <description>Researchers have created the first complete map showing how hundreds of mutations in a key cancer gene affect tumor growth. By testing every possible mutation in a critical hotspot, they found that some changes barely boost cancer signals, while others supercharge them. When matched against real patient data, the map accurately predicted cancer behavior across tissues.</description>
-      <pubDate>Thu, 05 Feb 2026 12:29:14 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Social learning: Collaborative learning with large language models</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-1765359719068432739</link>
+      <description>Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tasks specified using natural language, often reaching performance close to that of people. As these models increasingly enable assistive agents, it could be beneficial for them to learn effectively from each other, much like people do in social settings, which would allow LLM-based agents to improve e</description>
+      <pubDate>Thu, 07 Mar 2024 18:15:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>This paper-thin chip turns invisible light into a steerable beam</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121538.htm</link>
-      <description>Researchers have built a paper-thin chip that converts infrared light into visible light and directs it precisely, all without mechanical motion. The design overcomes a long-standing efficiency-versus-control problem in light-shaping materials. This opens the door to tiny, highly efficient light sources integrated directly onto chips.</description>
-      <pubDate>Fri, 06 Feb 2026 04:39:29 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Croissant: a metadata format for ML-ready datasets</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-8393293208018757284</link>
+      <description>Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to reuse existing datasets to train an ML model often spend a lot of time understanding the data, making sense of its organization, or figuring out what subset to use as features. So much time, in fact, that progress in the field of ML is hampered by a fundamental obstacle: the wide variety of data rep</description>
+      <pubDate>Wed, 06 Mar 2024 18:26:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>This ultra-thin surface controls light in two completely different ways</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204121536.htm</link>
-      <description>A new metasurface design lets light of different spins bend, focus, and behave independently—while staying sharp across many colors. The trick combines two geometric phase effects so each spin channel can be tuned without interfering with the other. Researchers demonstrated stable beam steering and dual-focus lenses over wide frequency ranges. The approach could scale from microwaves all the way to visible light.</description>
-      <pubDate>Thu, 05 Feb 2026 06:59:59 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>VideoPrism: A foundational visual encoder for video understanding</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-1695264277638670894</link>
+      <description>Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content from everyday moments people share to historical moments to scientific observations, each of which contains a unique record of the world. The right tools could help researchers analyze these videos, transforming how we understand the world around us. Videos offer dynamic visual content far more rich th</description>
+      <pubDate>Thu, 22 Feb 2024 20:05:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>A new way to control light could boost future wireless tech</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204114540.htm</link>
-      <description>A new optical device allows researchers to generate and switch between two stable, donut-shaped light patterns called skyrmions. These light vortices hold their shape even when disturbed, making them promising for wireless data transmission. Using a specially designed metasurface and controlled laser pulses, scientists can flip between electric and magnetic modes. The advance could help pave the way for more resilient terahertz communication systems.</description>
-      <pubDate>Wed, 04 Feb 2026 16:51:31 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Advances in private training for production on-device language models</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-4343235509909091741</link>
+      <description>Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applications [ 1 , 2 ]. In Gboard , LMs are used to improve users’ typing experience by supporting features like next word prediction (NWP), Smart Compose , smart completion and suggestion , slide to type , and proofread . Deploying models on users’ devices rather than enterprise servers has advantages like l</description>
+      <pubDate>Wed, 21 Feb 2024 20:15:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>New nasal vaccine shows strong protection against H5N1 bird flu</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204114343.htm</link>
-      <description>As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.</description>
-      <pubDate>Wed, 04 Feb 2026 16:43:43 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Graph neural networks in TensorFlow</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-3264694155710647310</link>
+      <description>Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can be as important to understanding an object as its own attributes viewed in isolation — take for example transportation networks, production networks, knowledge graphs, or social networks. Discrete mathematics and computer science have a long history of formalizing such networks as graphs , consisti</description>
+      <pubDate>Tue, 06 Feb 2024 19:17:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Two-month-old babies are already making sense of the world</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204114144.htm</link>
-      <description>At just two months old, babies are already organizing the world in their minds. Brain scans revealed distinct patterns as infants looked at pictures of animals, toys, and everyday objects, showing early category recognition. Scientists used AI to help decode these patterns, offering a rare glimpse into infant thinking. The results suggest babies begin learning and understanding far sooner than expected.</description>
-      <pubDate>Thu, 05 Feb 2026 05:14:20 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>A decoder-only foundation model for time-series forecasting</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-6956767920612914706</link>
+      <description>Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. Deep learning (DL) models have emerged as a popular approach for forecasting rich, multivariate, time-series data because they have proven to perform well i</description>
+      <pubDate>Fri, 02 Feb 2024 19:07:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>Melting Antarctic ice may weaken a major carbon sink</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260204042457.htm</link>
-      <description>Melting ice from West Antarctica once delivered huge amounts of iron to the Southern Ocean, but algae growth did not increase as expected. Researchers found the iron was in a form that marine life could not easily use. This means more melting ice does not automatically boost carbon absorption. In the future, Antarctic ice loss could actually reduce the ocean’s ability to slow climate change.</description>
-      <pubDate>Wed, 04 Feb 2026 09:32:51 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>MobileDiffusion: Rapid text-to-image generation on-device</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-5966553114967673984</link>
+      <description>Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality images from text prompts. However, leading models feature billions of parameters and are consequently expensive to run, requiring powerful desktops or servers (e.g., Stable Diffusion , DALL·E , and Imagen ). While recent advancements in inference solutions on Android via MediaPipe and iOS via Core ML h</description>
+      <pubDate>Wed, 31 Jan 2024 21:59:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>MIT&amp;#039;s new brain tool could finally explain consciousness</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260203030554.htm</link>
-      <description>Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery. Researchers at MIT are exploring transcranial focused ultrasound, a noninvasive technology that can precisely stimulate deep regions of the brain that were previously off-limits. In a new “roadmap” paper, they explain how this method could finally let scientists test cause-and-effect in consciousness research, not just observe correlations.</description>
-      <pubDate>Wed, 04 Feb 2026 12:42:40 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Mixed-input matrix multiplication performance optimizations</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-5144906729109253495</link>
+      <description>Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowledge and boost our overall productivity. The backbone of these applications lies in large language models (LLMs). LLMs are memory-intensive and typically require specialized hardware accelerators to efficiently deliver tens of exaflops of computing power. This blog post shows how we can start address</description>
+      <pubDate>Fri, 26 Jan 2024 19:56:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>The overlooked nutrition risk of Ozempic and Wegovy</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260203030551.htm</link>
-      <description>Popular weight-loss drugs like Ozempic and Wegovy can dramatically curb appetite, but experts warn many users are flying blind when it comes to nutrition. New research suggests people taking these medications may not be getting enough guidance on protein, vitamins, and overall diet quality, increasing the risk of muscle loss and nutrient deficiencies.</description>
-      <pubDate>Wed, 04 Feb 2026 15:43:08 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Exphormer: Scaling transformers for graph-structured data</title>
+      <link>tag:blogger.com,1999:blog-8474926331452026626.post-1418736582601940076</link>
+      <description>Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properti</description>
+      <pubDate>Tue, 23 Jan 2024 22:27:00 GMT</pubDate>
+      <category>ai</category>
+      <source>Google AI Blog</source>
     </item>
 
     <item>
-      <title>New catalyst turns carbon dioxide into clean fuel source</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260203030548.htm</link>
-      <description>Researchers have found that manganese, an abundant and inexpensive metal, can be used to efficiently convert carbon dioxide into formate, a potential hydrogen source for fuel cells. The key was a clever redesign that made the catalyst last far longer than similar low-cost materials. Surprisingly, the improved manganese catalyst even beat many expensive precious-metal options. The discovery could help turn greenhouse gas into clean energy ingredients.</description>
-      <pubDate>Tue, 03 Feb 2026 11:08:34 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Consolidating systems for AI with iPaaS</title>
+      <link>https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/</link>
+      <description>For decades, enterprises reacted to shifting business pressures with stopgap technology solutions. To rein in rising infrastructure costs, they adopted cloud services that could scale on demand. When customers shifted their lives onto smartphones, companies rolled out mobile apps to keep pace. And when businesses began needing real-time visibility into factories and stockrooms, they layered&amp;#8230;</description>
+      <pubDate>Thu, 05 Feb 2026 15:20:37 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
     </item>
 
     <item>
-      <title>This unexpected plant discovery could change how drugs are made</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260203030546.htm</link>
-      <description>Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The insight could help scientists discover new drugs and produce them more sustainably.</description>
-      <pubDate>Tue, 03 Feb 2026 15:06:55 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>The Download: attempting to track AI, and the next generation of nuclear power</title>
+      <link>https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. This is the most misunderstood graph in AI Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an&amp;#8230;</description>
+      <pubDate>Thu, 05 Feb 2026 13:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
     </item>
 
     <item>
-      <title>A 25-year study found an unexpected link between cheese and dementia</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260203030540.htm</link>
-      <description>A massive Swedish study tracking nearly 28,000 people for 25 years found an unexpected link between full-fat dairy and brain health. Among adults without a genetic risk for Alzheimer’s, eating more full-fat cheese was associated with a noticeably lower risk of developing the disease, while higher cream intake was tied to reduced dementia risk overall. The findings challenge decades of low-fat dietary advice but come with important caveats.</description>
-      <pubDate>Wed, 04 Feb 2026 14:44:17 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>Three questions about next-generation nuclear power, answered</title>
+      <link>https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/</link>
+      <description>Nuclear power continues to be one of the hottest topics in energy today, and in our recent online Roundtables discussion about next-generation nuclear power, hyperscale AI data centers, and the grid, we got dozens of great audience questions. These ran the gamut, and while we answered quite a few (and I’m keeping some in mind&amp;#8230;</description>
+      <pubDate>Thu, 05 Feb 2026 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
     </item>
 
     <item>
-      <title>Why heart disease risk in type 2 diabetes looks different for men and women</title>
-      <link>https://www.sciencedaily.com/releases/2026/02/260203030537.htm</link>
-      <description>Scientists are digging into why heart disease risk in type 2 diabetes differs between men and women—and sex hormones may be part of the story. In a large Johns Hopkins study, men with higher testosterone had lower heart disease risk, while rising estradiol levels were linked to higher risk. These hormone effects were not seen in women. The results point toward more personalized approaches to heart disease prevention in diabetes.</description>
-      <pubDate>Wed, 04 Feb 2026 07:21:09 GMT</pubDate>
-      <category>science</category>
-      <source>Science Daily</source>
+      <title>This is the most misunderstood graph in AI</title>
+      <link>https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/</link>
+      <description>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an AI&amp;#8230;</description>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>From guardrails to governance: A CEO’s guide for securing agentic systems</title>
+      <link>https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/</link>
+      <description>The previous article in this series, “Rules fail at the prompt, succeed at the boundary,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article is the prescription. The question every CEO is now getting from their board is some version of: What do we do about agent risk? Across&amp;#8230;</description>
+      <pubDate>Wed, 04 Feb 2026 14:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The Download: the future of nuclear power plants, and social media-fueled AI hype</title>
+      <link>https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Why AI companies are betting on next-gen nuclear AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity&amp;#8230;</description>
+      <pubDate>Wed, 04 Feb 2026 13:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The Download: squeezing more metal out of aging mines, and AI&amp;#8217;s truth crisis</title>
+      <link>https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Microbes could extract the metal needed for cleantech In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing the end of its life. At a&amp;#8230;</description>
+      <pubDate>Tue, 03 Feb 2026 13:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Powering tax donations with AI powered personalized recommendations</title>
+      <link>https://openai.com/index/trustbank</link>
+      <description>TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.</description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Cisco and OpenAI redefine enterprise engineering with AI agents</title>
+      <link>https://openai.com/index/cisco</link>
+      <description>Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.</description>
+      <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Zenken boosts a lean sales team with ChatGPT Enterprise</title>
+      <link>https://openai.com/index/zenken</link>
+      <description>By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.</description>
+      <pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Announcing OpenAI Grove Cohort 2</title>
+      <link>https://openai.com/index/openai-grove</link>
+      <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
+      <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>One in a million: celebrating the customers shaping AI’s future</title>
+      <link>https://openai.com/index/one-in-a-million-customers</link>
+      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
+      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Evaluating chain-of-thought monitorability</title>
+      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
+      <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
   </channel>
 </rss>

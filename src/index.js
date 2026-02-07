@@ -5,34 +5,48 @@ const path = require('path');
 
 // Configuration
 const CONFIG = {
-  maxArticles: 30,
-  topics: ['technology', 'science', 'business', 'politics', 'software', 'gadgets'],
+  maxArticles: 40,
+  topics: ['technology', 'ai', 'software', 'gadgets', 'eu-politics', 'international', 'science'],
   feeds: [
-    // Technology
-    { url: 'https://www.theverge.com/rss/index.xml', topic: 'technology', source: 'The Verge' },
-    { url: 'https://techcrunch.com/feed/', topic: 'technology', source: 'TechCrunch' },
-    { url: 'https://www.wired.com/feed/rss', topic: 'technology', source: 'Wired' },
-    { url: 'https://feeds.arstechnica.com/arstechnica/index', topic: 'technology', source: 'Ars Technica' },
+    // Technology (High Priority)
+    { url: 'https://www.theverge.com/rss/index.xml', topic: 'technology', source: 'The Verge', priority: 10 },
+    { url: 'https://techcrunch.com/feed/', topic: 'technology', source: 'TechCrunch', priority: 10 },
+    { url: 'https://www.wired.com/feed/rss', topic: 'technology', source: 'Wired', priority: 10 },
+    { url: 'https://feeds.arstechnica.com/arstechnica/index', topic: 'technology', source: 'Ars Technica', priority: 10 },
+    { url: 'https://www.theguardian.com/technology/rss', topic: 'technology', source: 'The Guardian Tech', priority: 8 },
     
-    // Science
-    { url: 'https://www.sciencedaily.com/rss/all.xml', topic: 'science', source: 'Science Daily' },
-    { url: 'https://www.nature.com/nature.rss', topic: 'science', source: 'Nature' },
+    // AI & Machine Learning (Very High Priority)
+    { url: 'https://www.technologyreview.com/feed/', topic: 'ai', source: 'MIT Technology Review', priority: 15 },
+    { url: 'https://openai.com/blog/rss.xml', topic: 'ai', source: 'OpenAI Blog', priority: 15 },
+    { url: 'https://feeds.feedburner.com/blogspot/gJZg', topic: 'ai', source: 'Google AI Blog', priority: 15 },
+    { url: 'https://ai.googleblog.com/feeds/posts/default', topic: 'ai', source: 'Google Research', priority: 12 },
     
-    // Business
-    { url: 'https://feeds.bbci.co.uk/news/business/rss.xml', topic: 'business', source: 'BBC Business' },
-    { url: 'http://feeds.reuters.com/reuters/businessNews', topic: 'business', source: 'Reuters' },
+    // Software Development & Coding (High Priority)
+    { url: 'https://news.ycombinator.com/rss', topic: 'software', source: 'Hacker News', priority: 12 },
+    { url: 'https://dev.to/feed', topic: 'software', source: 'Dev.to', priority: 8 },
+    { url: 'https://github.blog/feed/', topic: 'software', source: 'GitHub Blog', priority: 10 },
+    { url: 'https://stackoverflow.blog/feed/', topic: 'software', source: 'Stack Overflow', priority: 8 },
+    { url: 'https://www.freecodecamp.org/news/rss/', topic: 'software', source: 'freeCodeCamp', priority: 7 },
     
-    // Politics
-    { url: 'https://feeds.bbci.co.uk/news/politics/rss.xml', topic: 'politics', source: 'BBC Politics' },
-    { url: 'https://www.politico.com/rss/politicopicks.xml', topic: 'politics', source: 'Politico' },
+    // Gadgets (Medium-High Priority)
+    { url: 'https://gizmodo.com/rss', topic: 'gadgets', source: 'Gizmodo', priority: 8 },
+    { url: 'https://www.engadget.com/rss.xml', topic: 'gadgets', source: 'Engadget', priority: 8 },
+    { url: 'https://www.cnet.com/rss/news/', topic: 'gadgets', source: 'CNET', priority: 7 },
     
-    // Software Development
-    { url: 'https://news.ycombinator.com/rss', topic: 'software', source: 'Hacker News' },
-    { url: 'https://dev.to/feed', topic: 'software', source: 'Dev.to' },
+    // EU Politics (Medium Priority)
+    { url: 'https://www.politico.eu/feed/', topic: 'eu-politics', source: 'Politico Europe', priority: 8 },
+    { url: 'https://www.euractiv.com/feed/', topic: 'eu-politics', source: 'EurActiv', priority: 8 },
+    { url: 'https://www.euronews.com/rss', topic: 'eu-politics', source: 'Euronews', priority: 7 },
     
-    // Gadgets
-    { url: 'https://gizmodo.com/rss', topic: 'gadgets', source: 'Gizmodo' },
-    { url: 'https://www.engadget.com/rss.xml', topic: 'gadgets', source: 'Engadget' },
+    // International News (Medium Priority)
+    { url: 'https://feeds.bbci.co.uk/news/world/rss.xml', topic: 'international', source: 'BBC World', priority: 10 },
+    { url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml', topic: 'international', source: 'NY Times World', priority: 9 },
+    { url: 'https://www.theguardian.com/world/rss', topic: 'international', source: 'The Guardian World', priority: 8 },
+    { url: 'https://www.aljazeera.com/xml/rss/all.xml', topic: 'international', source: 'Al Jazeera', priority: 7 },
+    
+    // Science (Lower Priority but still included)
+    { url: 'https://www.sciencedaily.com/rss/all.xml', topic: 'science', source: 'Science Daily', priority: 6 },
+    { url: 'https://www.nature.com/nature.rss', topic: 'science', source: 'Nature', priority: 7 },
   ]
 };
 
@@ -99,8 +113,8 @@ function isLowQuality(title, description = '') {
   return false;
 }
 
-function scoreArticle(item, source) {
-  let score = 0;
+function scoreArticle(item, source, priority = 5) {
+  let score = priority; // Start with source priority
   const title = item.title || '';
   const description = item.description || '';
   
@@ -110,9 +124,17 @@ function scoreArticle(item, source) {
   // Penalize low quality
   if (isLowQuality(title, description)) score -= 30;
   
-  // Boost based on source reputation (simple heuristic)
-  const reputableSources = ['Reuters', 'BBC', 'Nature', 'Science Daily', 'Hacker News'];
+  // Boost based on source reputation
+  const reputableSources = ['MIT', 'OpenAI', 'Google', 'GitHub', 'Reuters', 'BBC', 'Nature', 'Hacker News', 'NY Times', 'Guardian'];
   if (reputableSources.some(s => source.includes(s))) score += 10;
+  
+  // Extra boost for AI-related content
+  const aiKeywords = /\b(AI|artificial intelligence|machine learning|neural network|GPT|LLM|deep learning|chatbot)\b/i;
+  if (aiKeywords.test(title) || aiKeywords.test(description)) score += 8;
+  
+  // Boost for coding/dev content
+  const codingKeywords = /\b(programming|developer|code|software|javascript|python|typescript|github|open source)\b/i;
+  if (codingKeywords.test(title) || codingKeywords.test(description)) score += 5;
   
   // Boost for substantive content indicators
   if (description && description.length > 200) score += 5;
@@ -171,7 +193,7 @@ async function fetchFeed(feedConfig) {
         pubDate: item.pubDate || item.published || item.updated || new Date().toISOString(),
         source: feedConfig.source,
         topic: feedConfig.topic,
-        score: scoreArticle({ title: String(title), description: String(description) }, feedConfig.source)
+        score: scoreArticle({ title: String(title), description: String(description) }, feedConfig.source, feedConfig.priority || 5)
       };
     });
   } catch (error) {
