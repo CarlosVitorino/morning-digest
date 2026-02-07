@@ -17,7 +17,7 @@ Your personalized morning news digest with intelligent clickbait filtering.
 ✅ **Clickbait Detection** - Uses multiple heuristics to filter out sensationalized headlines  
 ✅ **Quality Scoring** - Ranks articles by source reputation and content quality  
 ✅ **Personalized Topics** - Focused on your interests  
-✅ **Daily Updates** - Automatically refreshes every morning  
+✅ **Hourly Updates** - Automatically refreshes every hour  
 ✅ **Clean RSS Feed** - Perfect for Feedly and other RSS readers  
 
 ## Subscribe
