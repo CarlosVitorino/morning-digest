@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 11:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 12:16:13 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Making AI Work, MIT Technology Review’s new AI newsletter, is here</title>
+      <link>https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/</link>
+      <description>For years, our newsroom has explored AI’s limitations and potential dangers, as well as its growing energy needs. And our reporters have looked closely at how generative tools are being used for tasks such as coding and running scientific experiments.&amp;#160; But how is AI actually being used in fields like health care, climate tech, education,&amp;#8230;</description>
+      <pubDate>Mon, 09 Feb 2026 11:30:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Consolidating systems for AI with iPaaS</title>
       <link>https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/</link>
       <description>For decades, enterprises reacted to shifting business pressures with stopgap technology solutions. To rein in rising infrastructure costs, they adopted cloud services that could scale on demand. When customers shifted their lives onto smartphones, companies rolled out mobile apps to keep pace. And when businesses began needing real-time visibility into factories and stockrooms, they layered&amp;#8230;</description>
@@ -292,15 +301,6 @@
       <link>https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Why AI companies are betting on next-gen nuclear AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity&amp;#8230;</description>
       <pubDate>Wed, 04 Feb 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: squeezing more metal out of aging mines, and AI&amp;#8217;s truth crisis</title>
-      <link>https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Microbes could extract the metal needed for cleantech In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing the end of its life. At a&amp;#8230;</description>
-      <pubDate>Tue, 03 Feb 2026 13:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
