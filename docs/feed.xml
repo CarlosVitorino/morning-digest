@@ -5,9 +5,18 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 17:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 18:22:38 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions</title>
+      <link>https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/</link>
+      <description>In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about&amp;#8230;</description>
+      <pubDate>Tue, 10 Feb 2026 17:00:24 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -292,15 +301,6 @@
       <link>https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. This is the most misunderstood graph in AI Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an&amp;#8230;</description>
       <pubDate>Thu, 05 Feb 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Three questions about next-generation nuclear power, answered</title>
-      <link>https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/</link>
-      <description>Nuclear power continues to be one of the hottest topics in energy today, and in our recent online Roundtables discussion about next-generation nuclear power, hyperscale AI data centers, and the grid, we got dozens of great audience questions. These ran the gamut, and while we answered quite a few (and I’m keeping some in mind&amp;#8230;</description>
-      <pubDate>Thu, 05 Feb 2026 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
