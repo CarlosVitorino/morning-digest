@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 12:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 13:32:07 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon</title>
+      <link>https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. A first look at Making AI Work, MIT Technology Review’s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We’ve launched a new&amp;#8230;</description>
+      <pubDate>Tue, 10 Feb 2026 13:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Why the Moltbook frenzy was like Pokémon</title>
       <link>https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show&amp;#8230;</description>
@@ -297,15 +306,6 @@
     </item>
 
     <item>
-      <title>This is the most misunderstood graph in AI</title>
-      <link>https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/</link>
-      <description>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an AI&amp;#8230;</description>
-      <pubDate>Thu, 05 Feb 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Powering tax donations with AI powered personalized recommendations</title>
       <link>https://openai.com/index/trustbank</link>
       <description>TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.</description>
@@ -342,18 +342,18 @@
     </item>
 
     <item>
-      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
-      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
-      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
+      <title>One in a million: celebrating the customers shaping AI’s future</title>
+      <link>https://openai.com/index/one-in-a-million-customers</link>
+      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>One in a million: celebrating the customers shaping AI’s future</title>
-      <link>https://openai.com/index/one-in-a-million-customers</link>
-      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
+      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
+      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
