@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 20:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 21:12:39 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>Is a secure AI assistant possible?</title>
+      <link>https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/</link>
+      <description>AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as web browsers and email addresses, the consequences of those mistakes become far more serious. That might explain why the&amp;#8230;</description>
+      <pubDate>Wed, 11 Feb 2026 20:08:35 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon</title>
       <link>https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. A first look at Making AI Work, MIT Technology Review’s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We’ve launched a new&amp;#8230;</description>
@@ -354,15 +363,6 @@
       <title>AI literacy resources for teens and parents</title>
       <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
       <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
-      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Deepening our collaboration with the U.S. Department of Energy</title>
-      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
-      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
