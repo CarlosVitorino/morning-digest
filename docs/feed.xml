@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 12:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 13:31:21 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -288,15 +288,6 @@
     </item>
 
     <item>
-      <title>Consolidating systems for AI with iPaaS</title>
-      <link>https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/</link>
-      <description>For decades, enterprises reacted to shifting business pressures with stopgap technology solutions. To rein in rising infrastructure costs, they adopted cloud services that could scale on demand. When customers shifted their lives onto smartphones, companies rolled out mobile apps to keep pace. And when businesses began needing real-time visibility into factories and stockrooms, they layered&amp;#8230;</description>
-      <pubDate>Thu, 05 Feb 2026 15:20:37 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Powering tax donations with AI powered personalized recommendations</title>
       <link>https://openai.com/index/trustbank</link>
       <description>TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.</description>
@@ -355,6 +346,15 @@
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
       <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
       <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Deepening our collaboration with the U.S. Department of Energy</title>
+      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
+      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
