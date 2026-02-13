@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 10:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 11:13:11 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -288,24 +288,6 @@
     </item>
 
     <item>
-      <title>The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon</title>
-      <link>https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. A first look at Making AI Work, MIT Technology Review’s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We’ve launched a new&amp;#8230;</description>
-      <pubDate>Tue, 10 Feb 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Why the Moltbook frenzy was like Pokémon</title>
-      <link>https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show&amp;#8230;</description>
-      <pubDate>Mon, 09 Feb 2026 17:02:56 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Powering tax donations with AI powered personalized recommendations</title>
       <link>https://openai.com/index/trustbank</link>
       <description>TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.</description>
@@ -364,6 +346,24 @@
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
       <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
       <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Deepening our collaboration with the U.S. Department of Energy</title>
+      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
+      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>AI literacy resources for teens and parents</title>
+      <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
+      <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
