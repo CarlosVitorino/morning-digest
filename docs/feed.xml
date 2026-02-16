@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 14:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 15:15:02 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -13,15 +13,6 @@
       <link>https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI is already making online crimes easier. It could get much worse. Just as software engineers are using artificial intelligence to help write code and check for bugs, hackers are using these tools&amp;#8230;</description>
       <pubDate>Thu, 12 Feb 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>AI is already making online crimes easier. It could get much worse.</title>
-      <link>https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/</link>
-      <description>Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&amp;#8230;</description>
-      <pubDate>Thu, 12 Feb 2026 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/us-department-of-energy-collaboration</link>
       <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Introducing OpenAI Academy for News Organizations</title>
+      <link>https://openai.com/index/openai-academy-for-news-organizations</link>
+      <description>OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.</description>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
