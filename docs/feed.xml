@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 08:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 09:16:24 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>From Integration Chaos to Digital Clarity: Nutrien Ag Solutions’ Post-Acquisition Reset</title>
+      <link>https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/</link>
+      <description>Thank you for joining us on the &amp;#8220;Enterprise AI hub.&amp;#8221; In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Sriram Kalyan, Head of Applications and Data at Nutrien Ag Solutions, Australia, about turning a high-risk post-acquisition IT landscape into a scalable digital foundation. Sriram shares how the merger of two major&amp;#8230;</description>
+      <pubDate>Thu, 19 Feb 2026 08:48:53 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: unraveling a death threat mystery, and AI voice recreation for musicians</title>
       <link>https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Hackers made death threats against this security researcher. Big mistake. In April 2024, a mysterious someone using the online handles “Waifu” and “Judische” began posting death threats on Telegram and Discord channels aimed&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/accelerating-biological-research-in-the-wet-lab</link>
       <description>OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.</description>
       <pubDate>Tue, 16 Dec 2025 08:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>BBVA and OpenAI collaborate to transform global banking</title>
-      <link>https://openai.com/index/bbva-collaboration-expansion</link>
-      <description>BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.</description>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
