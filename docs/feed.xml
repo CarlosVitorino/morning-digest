@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 16:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 17:23:22 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
+      <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
+      <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Powering tax donations with AI powered personalized recommendations</title>
       <link>https://openai.com/index/trustbank</link>
       <description>TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/bbva-collaboration-expansion</link>
       <description>BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.</description>
       <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Advancing science and math with GPT-5.2</title>
-      <link>https://openai.com/index/gpt-5-2-for-science-and-math</link>
-      <description>GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.</description>
-      <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
