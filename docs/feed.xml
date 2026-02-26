@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 23:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:17:15 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -315,18 +315,18 @@
     </item>
 
     <item>
-      <title>Deepening our collaboration with the U.S. Department of Energy</title>
-      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
-      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
+      <title>AI literacy resources for teens and parents</title>
+      <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
+      <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>AI literacy resources for teens and parents</title>
-      <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
-      <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
+      <title>Deepening our collaboration with the U.S. Department of Energy</title>
+      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
+      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
