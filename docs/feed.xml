@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 12:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 13:24:56 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: Earth&amp;#8217;s rumblings, and AI for strikes on Iran</title>
+      <link>https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living&amp;#8230;</description>
+      <pubDate>Wed, 04 Mar 2026 13:12:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: protesting AI, and what&amp;#8217;s floating in space</title>
       <link>https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/</link>
       <description>This is today&amp;#8217;s edition of&amp;#160;The Download,&amp;#160;our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/</link>
       <description>Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&amp;#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&amp;#8230;</description>
       <pubDate>Fri, 27 Feb 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Finding value with AI and Industry 5.0 transformation</title>
-      <link>https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/</link>
-      <description>For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment&amp;#8230;</description>
-      <pubDate>Thu, 26 Feb 2026 15:00:59 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
