@@ -5,9 +5,18 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 10:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 11:12:44 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Online harassment is entering its AI era</title>
+      <link>https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/</link>
+      <description>Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&amp;#8230;</description>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/</link>
       <description>The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category. The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication&amp;#8217;s Power Hungry package on AI’s energy burden. AI is often described&amp;#8230;</description>
       <pubDate>Fri, 27 Feb 2026 21:41:31 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: how AI is shaking up Go, and a cybersecurity mystery</title>
-      <link>https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the&amp;#8230;</description>
-      <pubDate>Fri, 27 Feb 2026 13:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
