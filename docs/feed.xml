@@ -5,9 +5,18 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 14:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 15:17:28 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>The Download: an AI agent&amp;#8217;s hit piece, and preventing lightning</title>
+      <link>https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things&amp;#8230;</description>
+      <pubDate>Thu, 05 Mar 2026 14:28:46 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
     <item>
       <title>Online harassment is entering its AI era</title>
       <link>https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/</link>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/</link>
       <description>This is today&amp;#8217;s edition of&amp;#160;The Download,&amp;#160;our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as&amp;#8230;</description>
       <pubDate>Mon, 02 Mar 2026 13:20:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>I checked out one of the biggest anti-AI protests yet</title>
-      <link>https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/</link>
-      <description>Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was&amp;#8230;</description>
-      <pubDate>Mon, 02 Mar 2026 12:55:20 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
