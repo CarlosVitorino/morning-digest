@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 12:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 13:28:23 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -261,6 +261,24 @@
     </item>
 
     <item>
+      <title>Prioritizing energy intelligence for sustainable growth</title>
+      <link>https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/</link>
+      <description>Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,&amp;#8230;</description>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The Download: AI&amp;#8217;s role in the Iran war, and an escalating legal fight</title>
+      <link>https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. How AI is turning the Iran conflict into&amp;#160;theater&amp;#160; Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to&amp;#8230;</description>
+      <pubDate>Tue, 10 Mar 2026 12:55:32 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>How AI is turning the Iran conflict into theater</title>
       <link>https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”&amp;#160; The author of that post on X was referring to an online intelligence dashboard following&amp;#8230;</description>
@@ -301,24 +319,6 @@
       <link>https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/</link>
       <description>The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&amp;#8230;</description>
       <pubDate>Thu, 05 Mar 2026 11:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Bridging the operational AI gap</title>
-      <link>https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/</link>
-      <description>The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels&amp;#8230;</description>
-      <pubDate>Wed, 04 Mar 2026 14:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: Earth&amp;#8217;s rumblings, and AI for strikes on Iran</title>
-      <link>https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living&amp;#8230;</description>
-      <pubDate>Wed, 04 Mar 2026 13:12:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
