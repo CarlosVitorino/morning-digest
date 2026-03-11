@@ -5,14 +5,14 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 12:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:28:26 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>The Download: an AI agent&amp;#8217;s hit piece, and preventing lightning</title>
-      <link>https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things&amp;#8230;</description>
-      <pubDate>Thu, 05 Mar 2026 14:28:46 GMT</pubDate>
+      <title>Hustlers are cashing in on China&amp;#8217;s OpenClaw AI craze</title>
+      <link>https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/</link>
+      <description>Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&amp;#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&amp;#8230;</description>
+      <pubDate>Wed, 11 Mar 2026 12:46:21 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -306,15 +306,6 @@
     </item>
 
     <item>
-      <title>How much wildfire prevention is too much?</title>
-      <link>https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/</link>
-      <description>The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&amp;#8230;</description>
-      <pubDate>Thu, 05 Mar 2026 11:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
       <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
       <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
@@ -363,6 +354,15 @@
       <title>One in a million: celebrating the customers shaping AI’s future</title>
       <link>https://openai.com/index/one-in-a-million-customers</link>
       <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
+      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
