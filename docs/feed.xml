@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 13:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 14:18:49 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -270,6 +270,15 @@
     </item>
 
     <item>
+      <title>Building a strong data infrastructure for AI agent success</title>
+      <link>https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/</link>
+      <description>In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&amp;#8230;</description>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Prioritizing energy intelligence for sustainable growth</title>
       <link>https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/</link>
       <description>Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/one-in-a-million-customers</link>
       <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Evaluating chain-of-thought monitorability</title>
-      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
-      <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
-      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
