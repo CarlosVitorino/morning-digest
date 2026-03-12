@@ -5,9 +5,18 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 12:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:28:05 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump</title>
+      <link>https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Hustlers are cashing in on China’s&amp;#160;OpenClaw&amp;#160;AI craze&amp;#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&amp;#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&amp;#8230;</description>
+      <pubDate>Thu, 12 Mar 2026 13:02:48 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
     <item>
       <title>Hustlers are cashing in on China&amp;#8217;s OpenClaw AI craze</title>
       <link>https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/</link>
@@ -252,6 +261,15 @@
     </item>
 
     <item>
+      <title>Pragmatic by design: Engineering AI for the real world</title>
+      <link>https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/</link>
+      <description>The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&amp;#8230;</description>
+      <pubDate>Thu, 12 Mar 2026 13:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Prioritizing energy intelligence for sustainable growth</title>
       <link>https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/</link>
       <description>Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,&amp;#8230;</description>
@@ -274,24 +292,6 @@
       <link>https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”&amp;#160; The author of that post on X was referring to an online intelligence dashboard following&amp;#8230;</description>
       <pubDate>Mon, 09 Mar 2026 15:11:01 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: murky AI surveillance laws, and the White House cracks down on defiant labs</title>
-      <link>https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:&amp;#8230;</description>
-      <pubDate>Mon, 09 Mar 2026 13:57:44 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Is the Pentagon allowed to surveil Americans with AI?</title>
-      <link>https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/</link>
-      <description>The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk&amp;#8230;</description>
-      <pubDate>Fri, 06 Mar 2026 19:21:22 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
