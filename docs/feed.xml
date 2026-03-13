@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:26:22 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -261,6 +261,15 @@
     </item>
 
     <item>
+      <title>The Download: how AI is used for military targeting, and the Pentagon&amp;#8217;s war on Claude</title>
+      <link>https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Defense&amp;#160;official reveals how AI chatbots could be used for targeting decisions&amp;#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&amp;#160;Defense&amp;#160;Department&amp;#8230;</description>
+      <pubDate>Fri, 13 Mar 2026 12:16:56 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Future AI chips could be built on glass</title>
       <link>https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/</link>
       <description>Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&amp;#8230;</description>
@@ -292,15 +301,6 @@
       <link>https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/</link>
       <description>In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&amp;#8230;</description>
       <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Prioritizing energy intelligence for sustainable growth</title>
-      <link>https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/</link>
-      <description>Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,&amp;#8230;</description>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
