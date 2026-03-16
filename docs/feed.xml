@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 12:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:32:02 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -13,15 +13,6 @@
       <link>https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Hustlers are cashing in on China’s&amp;#160;OpenClaw&amp;#160;AI craze&amp;#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&amp;#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&amp;#8230;</description>
       <pubDate>Thu, 12 Mar 2026 13:02:48 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Hustlers are cashing in on China&amp;#8217;s OpenClaw AI craze</title>
-      <link>https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/</link>
-      <description>Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&amp;#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&amp;#8230;</description>
-      <pubDate>Wed, 11 Mar 2026 12:46:21 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -261,6 +252,24 @@
     </item>
 
     <item>
+      <title>Nurturing agentic AI beyond the toddler stage</title>
+      <link>https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/</link>
+      <description>Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&amp;#8230;</description>
+      <pubDate>Mon, 16 Mar 2026 13:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The Download: glass chips and “AI-free” logos</title>
+      <link>https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Future AI chips could be built on glass&amp;#160; Human-made glass is thousands of years old. But&amp;#160;it’s&amp;#160;now poised to find its way into the AI chips used in the world’s newest and&amp;#8230;</description>
+      <pubDate>Mon, 16 Mar 2026 12:35:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Why physical AI is becoming manufacturing’s next advantage</title>
       <link>https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/</link>
       <description>For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&amp;#8230;</description>
@@ -354,15 +363,6 @@
       <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
       <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
       <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>One in a million: celebrating the customers shaping AI’s future</title>
-      <link>https://openai.com/index/one-in-a-million-customers</link>
-      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
