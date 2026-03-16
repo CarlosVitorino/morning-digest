@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 11:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 12:16:18 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -306,15 +306,6 @@
     </item>
 
     <item>
-      <title>Building a strong data infrastructure for AI agent success</title>
-      <link>https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/</link>
-      <description>In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&amp;#8230;</description>
-      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
       <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
       <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
@@ -363,6 +354,15 @@
       <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
       <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
       <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>One in a million: celebrating the customers shaping AI’s future</title>
+      <link>https://openai.com/index/one-in-a-million-customers</link>
+      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
