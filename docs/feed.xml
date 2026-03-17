@@ -5,18 +5,9 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 22:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 23:09:01 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <item>
-      <title>The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump</title>
-      <link>https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Hustlers are cashing in on China’s&amp;#160;OpenClaw&amp;#160;AI craze&amp;#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&amp;#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&amp;#8230;</description>
-      <pubDate>Thu, 12 Mar 2026 13:02:48 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -249,6 +240,15 @@
       <pubDate>Tue, 23 Jan 2024 22:27:00 GMT</pubDate>
       <category>ai</category>
       <source>Google AI Blog</source>
+    </item>
+
+    <item>
+      <title>The Pentagon is planning for AI companies to train on classified data, defense official says</title>
+      <link>https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/</link>
+      <description>The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&amp;#160; AI models like Anthropic&amp;#8217;s Claude are already used to answer questions in classified settings, including for analyzing targets in Iran. But allowing models to train on&amp;#8230;</description>
+      <pubDate>Tue, 17 Mar 2026 22:30:46 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
     </item>
 
     <item>
