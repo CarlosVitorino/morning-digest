@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 00:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:34:20 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -245,7 +245,7 @@
     <item>
       <title>The Pentagon is planning for AI companies to train on classified data, defense official says</title>
       <link>https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/</link>
-      <description>The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&amp;#160; AI models like Anthropic&amp;#8217;s Claude are already used to answer questions in classified settings, including for analyzing targets in Iran. But allowing models to train on&amp;#8230;</description>
+      <description>The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&amp;#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&amp;#8230;</description>
       <pubDate>Tue, 17 Mar 2026 22:30:46 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
