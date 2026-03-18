@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:31:53 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: The Pentagon&amp;#8217;s new AI plans, and next-gen nuclear reactors</title>
+      <link>https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&amp;#160;defense&amp;#160;official says&amp;#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&amp;#8230;</description>
+      <pubDate>Wed, 18 Mar 2026 12:38:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Pentagon is planning for AI companies to train on classified data, defense official says</title>
       <link>https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/</link>
       <description>The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&amp;#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&amp;#8230;</description>
@@ -301,15 +310,6 @@
       <link>https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Defense&amp;#160;official reveals how AI chatbots could be used for targeting decisions&amp;#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&amp;#160;Defense&amp;#160;Department&amp;#8230;</description>
       <pubDate>Fri, 13 Mar 2026 12:16:56 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Future AI chips could be built on glass</title>
-      <link>https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/</link>
-      <description>Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&amp;#8230;</description>
-      <pubDate>Fri, 13 Mar 2026 09:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
