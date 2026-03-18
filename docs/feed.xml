@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 09:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:19:34 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -315,15 +315,6 @@
     </item>
 
     <item>
-      <title>A defense official reveals how AI chatbots could be used for targeting decisions</title>
-      <link>https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/</link>
-      <description>The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&amp;#8230;</description>
-      <pubDate>Thu, 12 Mar 2026 22:23:34 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
       <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
       <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/openai-grove</link>
       <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
       <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
+      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
