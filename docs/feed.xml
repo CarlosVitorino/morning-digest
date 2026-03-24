@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 12:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 13:31:24 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks</title>
+      <link>https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&amp;#160;delusions&amp;#160; What&amp;#160;actually happens&amp;#160;when people spiral into delusion with AI? To find out, Stanford researchers&amp;#160;analyzed&amp;#160;transcripts from chatbot users who experienced these spirals.&amp;#160; Their findings suggest that&amp;#8230;</description>
+      <pubDate>Tue, 24 Mar 2026 12:28:27 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The hardest question to answer about AI-fueled delusions</title>
       <link>https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/</link>
       <description>OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new&amp;#8230;</description>
       <pubDate>Fri, 20 Mar 2026 11:57:16 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: The Pentagon&amp;#8217;s new AI plans, and next-gen nuclear reactors</title>
-      <link>https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&amp;#160;defense&amp;#160;official says&amp;#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&amp;#8230;</description>
-      <pubDate>Wed, 18 Mar 2026 12:38:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
