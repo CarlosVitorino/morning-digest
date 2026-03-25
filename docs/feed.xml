@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 14:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 15:26:05 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Why this battery company is pivoting to AI</title>
+      <link>https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/</link>
+      <description>Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&amp;#8230;</description>
+      <pubDate>Wed, 25 Mar 2026 15:02:50 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>This startup wants to change how mathematicians do math</title>
       <link>https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/</link>
       <description>Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&amp;#8230;</description>
@@ -310,15 +319,6 @@
       <link>https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&amp;#160; In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in&amp;#8230;</description>
       <pubDate>Mon, 23 Mar 2026 12:17:33 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Bay Area’s animal welfare movement wants to recruit AI</title>
-      <link>https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/</link>
-      <description>In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&amp;#160; In the common area, a wildlife advocate spoke passionately to a crowd lounging in&amp;#8230;</description>
-      <pubDate>Mon, 23 Mar 2026 09:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
