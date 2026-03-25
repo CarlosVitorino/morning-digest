@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 17:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:19:32 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -315,15 +315,6 @@
     </item>
 
     <item>
-      <title>The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy</title>
-      <link>https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&amp;#160; In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in&amp;#8230;</description>
-      <pubDate>Mon, 23 Mar 2026 12:17:33 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
       <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
       <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/openai-grove</link>
       <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
       <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>One in a million: celebrating the customers shaping AI’s future</title>
+      <link>https://openai.com/index/one-in-a-million-customers</link>
+      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
