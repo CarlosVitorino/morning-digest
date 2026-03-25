@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 11:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 12:15:00 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Agentic commerce runs on truth and context</title>
+      <link>https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/</link>
+      <description>Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&amp;#8230;</description>
+      <pubDate>Wed, 25 Mar 2026 11:48:13 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The AI Hype Index: AI goes to war</title>
       <link>https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/</link>
       <description>AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/openai-grove</link>
       <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
       <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>One in a million: celebrating the customers shaping AI’s future</title>
-      <link>https://openai.com/index/one-in-a-million-customers</link>
-      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
