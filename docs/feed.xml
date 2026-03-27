@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 05:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:25:56 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -324,15 +324,6 @@
     </item>
 
     <item>
-      <title>Powering tax donations with AI powered personalized recommendations</title>
-      <link>https://openai.com/index/trustbank</link>
-      <description>TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.</description>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
       <title>Cisco and OpenAI redefine enterprise engineering with AI agents</title>
       <link>https://openai.com/index/cisco</link>
       <description>Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.</description>
@@ -355,6 +346,15 @@
       <link>https://openai.com/index/openai-grove</link>
       <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
       <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
+      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
