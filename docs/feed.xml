@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:29:59 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: the internet’s best weather app, and why people freeze their brains</title>
+      <link>https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best weather app&amp;#160; The best snow-forecasting app for skiers&amp;#160;isn’t&amp;#160;a&amp;#160;federally-funded&amp;#160;service or a big-name brand.&amp;#160;It’s&amp;#160;OpenSnow, a startup that uses government data, its own AI&amp;#8230;</description>
+      <pubDate>Fri, 27 Mar 2026 12:32:54 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: a battery pivot to AI, and rewriting math</title>
       <link>https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Why this battery company is pivoting to AI&amp;#160; Qichao Hu&amp;#160;doesn’t&amp;#160;mince words about the state of the battery industry. “Almost every&amp;#160;Western battery company has either died or is going to die.&amp;#160;It’s&amp;#160;kind of&amp;#8230;</description>
@@ -292,15 +301,6 @@
       <link>https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/</link>
       <description>Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&amp;#8230;</description>
       <pubDate>Wed, 25 Mar 2026 11:48:13 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The AI Hype Index: AI goes to war</title>
-      <link>https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/</link>
-      <description>AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&amp;#8230;</description>
-      <pubDate>Wed, 25 Mar 2026 09:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
