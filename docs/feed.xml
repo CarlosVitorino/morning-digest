@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 15:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:21:21 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Pentagon’s culture war tactic against Anthropic has backfired</title>
+      <link>https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It’s the latest development in the month-long&amp;#8230;</description>
+      <pubDate>Mon, 30 Mar 2026 15:42:50 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: the internet’s best weather app, and why people freeze their brains</title>
       <link>https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best weather app&amp;#160; The best snow-forecasting app for skiers&amp;#160;isn’t&amp;#160;a&amp;#160;federally-funded&amp;#160;service or a big-name brand.&amp;#160;It’s&amp;#160;OpenSnow, a startup that uses government data, its own AI&amp;#8230;</description>
@@ -265,15 +274,6 @@
       <link>https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/</link>
       <description>The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&amp;#8230;</description>
       <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Why this battery company is pivoting to AI</title>
-      <link>https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/</link>
-      <description>Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&amp;#8230;</description>
-      <pubDate>Wed, 25 Mar 2026 15:02:50 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
