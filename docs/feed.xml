@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:18:29 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,24 @@
     </item>
 
     <item>
+      <title>The Download: AI health tools and the Pentagon’s Anthropic culture war</title>
+      <link>https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. There are more AI health tools than ever—but how well do they work?&amp;#160; In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.&amp;#160; There’s&amp;#160;a clear demand&amp;#8230;</description>
+      <pubDate>Tue, 31 Mar 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>AI benchmarks are broken. Here’s what we need instead.</title>
+      <link>https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/</link>
+      <description>For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&amp;#160; This framing is seductive: An AI vs. human comparison on isolated problems with clear&amp;#8230;</description>
+      <pubDate>Tue, 31 Mar 2026 12:01:08 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>There are more AI health tools than ever—but how well do they work?</title>
       <link>https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/</link>
       <description>Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would&amp;#8230;</description>
@@ -274,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Why this battery company is pivoting to AI&amp;#160; Qichao Hu&amp;#160;doesn’t&amp;#160;mince words about the state of the battery industry. “Almost every&amp;#160;Western battery company has either died or is going to die.&amp;#160;It’s&amp;#160;kind of&amp;#8230;</description>
       <pubDate>Thu, 26 Mar 2026 12:42:53 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The snow gods: How a couple of ski bums built the internet’s best weather app</title>
-      <link>https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/</link>
-      <description>The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&amp;#8230;</description>
-      <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -354,15 +363,6 @@
       <title>AI literacy resources for teens and parents</title>
       <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
       <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
-      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Deepening our collaboration with the U.S. Department of Energy</title>
-      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
-      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
