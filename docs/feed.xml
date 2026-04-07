@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 12:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 13:32:20 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: AI&amp;#8217;s impact on jobs, and data centres in space</title>
+      <link>https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The one piece of data that could&amp;#160;actually shed&amp;#160;light on your job and AI&amp;#160; Within Silicon Valley’s orbit, an AI-fueled&amp;#160;jobs apocalypse is spoken about as a given. Now even economists who have&amp;#8230;</description>
+      <pubDate>Tue, 07 Apr 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The one piece of data that could actually shed light on your job and AI</title>
       <link>https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. There are more AI health tools than ever—but how well do they work?&amp;#160; In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.&amp;#160; There’s&amp;#160;a clear demand&amp;#8230;</description>
       <pubDate>Tue, 31 Mar 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>AI benchmarks are broken. Here’s what we need instead.</title>
-      <link>https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/</link>
-      <description>For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&amp;#160; This framing is seductive: An AI vs. human comparison on isolated problems with clear&amp;#8230;</description>
-      <pubDate>Tue, 31 Mar 2026 12:01:08 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
