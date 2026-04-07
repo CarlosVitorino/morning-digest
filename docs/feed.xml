@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 13:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 14:33:48 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Enabling agent-first process redesign</title>
+      <link>https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/</link>
+      <description>Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&amp;#8230;</description>
+      <pubDate>Tue, 07 Apr 2026 14:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AI&amp;#8217;s impact on jobs, and data centres in space</title>
       <link>https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The one piece of data that could&amp;#160;actually shed&amp;#160;light on your job and AI&amp;#160; Within Silicon Valley’s orbit, an AI-fueled&amp;#160;jobs apocalypse is spoken about as a given. Now even economists who have&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/</link>
       <description>In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s&amp;#8230;</description>
       <pubDate>Tue, 31 Mar 2026 14:12:50 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI health tools and the Pentagon’s Anthropic culture war</title>
-      <link>https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. There are more AI health tools than ever—but how well do they work?&amp;#160; In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.&amp;#160; There’s&amp;#160;a clear demand&amp;#8230;</description>
-      <pubDate>Tue, 31 Mar 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
