@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 12:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:33:21 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: AstroTurf wars and exponential AI growth</title>
+      <link>https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Is&amp;#160;fake&amp;#160;grass&amp;#160;a&amp;#160;bad&amp;#160;idea?&amp;#160;The&amp;#160;AstroTurf&amp;#160;wars&amp;#160;are&amp;#160;far&amp;#160;from&amp;#160;over.&amp;#160; In 2001,&amp;#160;Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The&amp;#8230;</description>
+      <pubDate>Thu, 09 Apr 2026 12:25:10 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why</title>
       <link>https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/</link>
       <description>We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
       <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
       <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>AI literacy resources for teens and parents</title>
-      <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
-      <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
-      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
