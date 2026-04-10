@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:31:40 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: an exclusive Jeff VanderMeer story and AI models too scary to release</title>
+      <link>https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Constellations&amp;#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &amp;#160; A spacecraft has crash-landed on a hostile planet. The only survivors&amp;#8230;</description>
+      <pubDate>Fri, 10 Apr 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AstroTurf wars and exponential AI growth</title>
       <link>https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Is&amp;#160;fake&amp;#160;grass&amp;#160;a&amp;#160;bad&amp;#160;idea?&amp;#160;The&amp;#160;AstroTurf&amp;#160;wars&amp;#160;are&amp;#160;far&amp;#160;from&amp;#160;over.&amp;#160; In 2001,&amp;#160;Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The one piece of data that could&amp;#160;actually shed&amp;#160;light on your job and AI&amp;#160; Within Silicon Valley’s orbit, an AI-fueled&amp;#160;jobs apocalypse is spoken about as a given. Now even economists who have&amp;#8230;</description>
       <pubDate>Tue, 07 Apr 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The one piece of data that could actually shed light on your job and AI</title>
-      <link>https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&amp;#8230;</description>
-      <pubDate>Mon, 06 Apr 2026 16:33:35 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
