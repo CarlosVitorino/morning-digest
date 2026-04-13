@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:33:25 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -279,15 +279,6 @@
     </item>
 
     <item>
-      <title>Enabling agent-first process redesign</title>
-      <link>https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/</link>
-      <description>Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&amp;#8230;</description>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
       <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
       <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/us-department-of-energy-collaboration</link>
       <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Introducing OpenAI Academy for News Organizations</title>
+      <link>https://openai.com/index/openai-academy-for-news-organizations</link>
+      <description>OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.</description>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
