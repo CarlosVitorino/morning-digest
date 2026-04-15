@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 05:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 06:36:58 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Building trust in the AI era with privacy-led UX</title>
+      <link>https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/</link>
+      <description>The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.&amp;#8230;</description>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: the state of AI, and protecting bears with drones</title>
       <link>https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.&amp;#160; If&amp;#160;you’re&amp;#160;following AI news,&amp;#160;you’re&amp;#160;probably getting&amp;#160;whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI&amp;#160;can’t&amp;#160;even&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/us-department-of-energy-collaboration</link>
       <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Introducing OpenAI Academy for News Organizations</title>
-      <link>https://openai.com/index/openai-academy-for-news-organizations</link>
-      <description>OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.</description>
-      <pubDate>Wed, 17 Dec 2025 06:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
