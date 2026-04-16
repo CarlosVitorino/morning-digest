@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:22:16 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Why having “humans in the loop” in an AI war is an illusion</title>
+      <link>https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/</link>
+      <description>The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an&amp;#8230;</description>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: NASA&amp;#8217;s nuclear spacecraft and unveiling our AI 10</title>
       <link>https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?&amp;#160; Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel&amp;#8230;</description>
@@ -256,15 +265,6 @@
       <link>https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/</link>
       <description>The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.&amp;#8230;</description>
       <pubDate>Wed, 15 Apr 2026 06:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: the state of AI, and protecting bears with drones</title>
-      <link>https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.&amp;#160; If&amp;#160;you’re&amp;#160;following AI news,&amp;#160;you’re&amp;#160;probably getting&amp;#160;whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI&amp;#160;can’t&amp;#160;even&amp;#8230;</description>
-      <pubDate>Tue, 14 Apr 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
