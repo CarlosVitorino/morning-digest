@@ -5,9 +5,63 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:09:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:11:28 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
+      <link>https://openai.com/index/introducing-aardvark</link>
+      <description>OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.</description>
+      <pubDate>Thu, 30 Oct 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>OpenAI acquires Software Applications Incorporated, maker of Sky</title>
+      <link>https://openai.com/index/openai-acquires-software-applications-incorporated</link>
+      <description>OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.</description>
+      <pubDate>Thu, 23 Oct 2025 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Customizable, no-code voice agent automation with GPT-4o</title>
+      <link>https://openai.com/index/retell-ai</link>
+      <description>Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.</description>
+      <pubDate>Thu, 26 Jun 2025 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Surging developer productivity with custom GPTs</title>
+      <link>https://openai.com/index/paf</link>
+      <description>Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning busin</description>
+      <pubDate>Tue, 18 Jun 2024 08:45:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Automating customer support agents</title>
+      <link>https://openai.com/index/mavenagi</link>
+      <description>MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.</description>
+      <pubDate>Wed, 29 May 2024 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Microsoft invests in and partners with OpenAI to support us building beneficial AGI</title>
+      <link>https://openai.com/index/microsoft-invests-in-and-partners-with-openai</link>
+      <description>Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI) with widely distributed economic benefits. We’re partnering to develop a hardware and software platform within Microsoft Azure which will scale to AGI. We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider—so we’ll be working hard together to further extend Microsoft Azure’s capabilities in large-scale AI systems.</description>
+      <pubDate>Mon, 22 Jul 2019 07:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
     <item>
       <title>Generative AI to quantify uncertainty in weather forecasting</title>
       <link>tag:blogger.com,1999:blog-8474926331452026626.post-1569605132526995799</link>
@@ -225,147 +279,93 @@
     </item>
 
     <item>
-      <title>HEAL: A framework for health equity assessment of machine learning performance</title>
-      <link>tag:blogger.com,1999:blog-8474926331452026626.post-977556648557231190</link>
-      <description>Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer &amp;amp; Director, Google Core Health equity is a major societal concern worldwide with disparities having many causes. These sources include limitations in access to healthcare, differences in clinical treatment, and even fundamental differences in the diagnostic technology. In dermatology for example, skin cancer outcomes are worse for populations such as minorities, those with lower socio</description>
-      <pubDate>Fri, 15 Mar 2024 18:22:00 GMT</pubDate>
+      <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
+      <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
+      <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
       <category>ai</category>
-      <source>Google AI Blog</source>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Learning the importance of training data under concept drift</title>
-      <link>tag:blogger.com,1999:blog-8474926331452026626.post-5605933033299261025</link>
-      <description>Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the development of AI models. Often, models are trained on longitudinal data with the hope that the training data used will accurately represent inputs the model may receive in the future. More generally, the default assumption that all training data are equally relevant often breaks in practice. For examp</description>
-      <pubDate>Wed, 14 Feb 2024 18:32:00 GMT</pubDate>
+      <title>Cisco and OpenAI redefine enterprise engineering with AI agents</title>
+      <link>https://openai.com/index/cisco</link>
+      <description>Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.</description>
+      <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
       <category>ai</category>
-      <source>Google AI Blog</source>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Building an emoji list generator with the GitHub Copilot CLI</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/</link>
-      <description>See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog .</description>
-      <pubDate>Fri, 17 Apr 2026 18:00:00 GMT</pubDate>
-      <category>software</category>
-      <source>GitHub Blog</source>
-    </item>
-
-    <item>
-      <title>Build a personal organization command center with GitHub Copilot CLI</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/</link>
-      <description>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog .</description>
-      <pubDate>Wed, 15 Apr 2026 17:00:00 GMT</pubDate>
-      <category>software</category>
-      <source>GitHub Blog</source>
-    </item>
-
-    <item>
-      <title>Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</title>
-      <link>https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/</link>
-      <description>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills. The post Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game appeared first on The GitHub Blog .</description>
-      <pubDate>Tue, 14 Apr 2026 18:17:59 GMT</pubDate>
-      <category>software</category>
-      <source>GitHub Blog</source>
-    </item>
-
-    <item>
-      <title>GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/</link>
-      <description>GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial. The post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The GitHub Blog .</description>
-      <pubDate>Fri, 10 Apr 2026 16:00:00 GMT</pubDate>
-      <category>software</category>
-      <source>GitHub Blog</source>
-    </item>
-
-    <item>
-      <title>Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool</title>
-      <link>https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool</link>
-      <description>Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days British banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact. Anthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial inst</description>
-      <pubDate>Fri, 17 Apr 2026 09:45:32 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
-    </item>
-
-    <item>
-      <title>Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment</title>
-      <link>https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment</link>
-      <description>Technology secretary plays down fears over jobs and cyber security as stake taken in British startup The UK technology secretary has urged the country to “make AI work for Britain”, brushing off fears about its impact on jobs and cybersecurity as the government announced its first investment under a £500m sovereign AI fund. Liz Kendall said the UK had to “seize” the opportunity offered by AI despite concerns underlined this month when US startup Anthropic revealed it had developed an AI model th</description>
-      <pubDate>Fri, 17 Apr 2026 05:00:20 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
-    </item>
-
-    <item>
-      <title>If OpenAI is to float on the stock market this year, it needs to start turning a profit</title>
-      <link>https://www.theguardian.com/technology/2026/mar/31/openai-stock-market-flotation-profit</link>
-      <description>The poster child of the AI boom, valued at $850bn, needs to show strategic discipline after ‘casting its net too wide’ If OpenAI is going to float this year , it has to get serious about its business model. The wow factor around the US company – the poster child of an AI industry boom that has stoked fears of a stock market bubble – has been long established, but when will the profits come? The party can’t go on for ever. The developer of ChatGPT is one of the biggest startups in the world and i</description>
-      <pubDate>Tue, 31 Mar 2026 07:00:33 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
-    </item>
-
-    <item>
-      <title>DP-Auditorium: A flexible library for auditing differential privacy</title>
-      <link>tag:blogger.com,1999:blog-8474926331452026626.post-5933365460125094774</link>
-      <description>Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while processing and analyzing data. DP offers a robust solution to address growing concerns about data protection, enabling technologies across industries and government applications (e.g., the US census ) without compromising individual user identities. As its adoption increases, it’s important to identi</description>
-      <pubDate>Tue, 13 Feb 2024 22:11:00 GMT</pubDate>
+      <title>Zenken boosts a lean sales team with ChatGPT Enterprise</title>
+      <link>https://openai.com/index/zenken</link>
+      <description>By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.</description>
+      <pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
       <category>ai</category>
-      <source>Google AI Blog</source>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’</title>
-      <link>https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors</link>
-      <description>Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections Ken, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up. Workslop is an unintended consequence of the AI boom. It’s what happens when employees use AI to quickly generate work that seems polished – at least superficially – but is in fact so flawed or inaccurate that it needs to be heavily corrected, cleaned up or even comp</description>
-      <pubDate>Tue, 14 Apr 2026 14:00:58 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
+      <title>Announcing OpenAI Grove Cohort 2</title>
+      <link>https://openai.com/index/openai-grove</link>
+      <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
+      <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Anthropic’s new AI tool has implications for us all – whether we can use it or not | Shakeel Hashim</title>
-      <link>https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications</link>
-      <description>Claude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostility In June 2024, a cyber-attack on a pathology services company caused chaos across London’s hospitals. More than 10,000 appointments were cancelled. Blood shortages followed and delays to blood tests led to a patient’s death . Lethal cyber-attacks like this are thankfully rare. But a new AI release could change that – plunging us into a terrifying new world of chaos a</description>
-      <pubDate>Fri, 10 Apr 2026 17:31:45 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
+      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
+      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>OpenAI shutters AI video generator Sora in abrupt announcement</title>
-      <link>https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora</link>
-      <description>Tech firm ‘says goodbye’ to Sora, made publicly available in 2024, just six months after its launch of a stand-alone app In an abrupt announcement on Tuesday, OpenAI said it was “saying goodbye” to its AI video generator Sora. The move comes just six months after the company’s splashy launch of a stand-alone app with which people could make and share hyper-realistic AI videos in a scrolling social feed. “To everyone who created with Sora, shared it, and built community around it: thank you,” the</description>
-      <pubDate>Tue, 24 Mar 2026 22:34:10 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
+      <title>One in a million: celebrating the customers shaping AI’s future</title>
+      <link>https://openai.com/index/one-in-a-million-customers</link>
+      <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Anthropic and Pentagon face off in court over ban on company’s AI model</title>
-      <link>https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit</link>
-      <description>After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it Sign up for the Breaking News US email to get newsletter alerts in your inbox Anthropic faced off against the Department of Defense in a federal court on Tuesday afternoon, as the artificial intelligence company seeks a temporary pause on the government’s decision to bar the US military and any contractors from using its technology. The two sides have been locked in an escal</description>
-      <pubDate>Tue, 24 Mar 2026 21:09:40 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
+      <title>Evaluating chain-of-thought monitorability</title>
+      <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
+      <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing</title>
-      <link>https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review</link>
-      <description>From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host There is a fun game you can play while watching Grayson Perry Has Seen the Future, the two-part documentary presented by the artist on the subject of artificial intelligence, its uses and its possible ramifications. Gather a group of friends, press play, and see which of you loses your mind first. Will it be during the opening in</description>
-      <pubDate>Wed, 15 Apr 2026 21:00:38 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
+      <title>AI literacy resources for teens and parents</title>
+      <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
+      <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war</title>
-      <link>https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war</link>
-      <description>The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment This week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public. The US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “ engage with AI fir</description>
-      <pubDate>Sun, 12 Apr 2026 09:00:13 GMT</pubDate>
-      <category>technology</category>
-      <source>The Guardian Tech</source>
+      <title>Deepening our collaboration with the U.S. Department of Energy</title>
+      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
+      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Introducing OpenAI Academy for News Organizations</title>
+      <link>https://openai.com/index/openai-academy-for-news-organizations</link>
+      <description>OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.</description>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
     </item>
   </channel>
 </rss>
