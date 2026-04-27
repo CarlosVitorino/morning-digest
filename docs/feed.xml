@@ -5,13 +5,13 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 08:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 09:46:03 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>Three reasons why DeepSeek’s new model matters</title>
       <link>https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/</link>
-      <description>On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&amp;#8230;</description>
+      <description>On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&amp;#8230;</description>
       <pubDate>Fri, 24 Apr 2026 21:40:58 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
