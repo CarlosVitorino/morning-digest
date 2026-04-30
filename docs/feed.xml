@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 15:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:31:48 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>This startup’s new mechanistic interpretability tool lets you debug LLMs</title>
+      <link>https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/</link>
+      <description>The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&amp;#8230;</description>
+      <pubDate>Thu, 30 Apr 2026 15:59:41 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: Musk and Altman&amp;#8217;s legal showdown, and AI’s profit problem</title>
       <link>https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&amp;#8230;</description>
       <pubDate>Mon, 27 Apr 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: supercharged scams and studying AI healthcare</title>
-      <link>https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of&amp;#8230;</description>
-      <pubDate>Fri, 24 Apr 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
