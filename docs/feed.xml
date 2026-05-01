@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 15:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:21:04 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,19 +243,19 @@
     </item>
 
     <item>
-      <title>This startup’s new mechanistic interpretability tool lets you debug LLMs</title>
-      <link>https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/</link>
-      <description>The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&amp;#8230;</description>
-      <pubDate>Thu, 30 Apr 2026 15:59:41 GMT</pubDate>
+      <title>Operationalizing AI for Scale and Sovereignty</title>
+      <link>https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/</link>
+      <description>Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&amp;#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&amp;#8230;</description>
+      <pubDate>Fri, 01 May 2026 15:31:09 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
 
     <item>
-      <title>The Download: Musk and Altman&amp;#8217;s legal showdown, and AI’s profit problem</title>
-      <link>https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&amp;#8230;</description>
-      <pubDate>Tue, 28 Apr 2026 12:10:00 GMT</pubDate>
+      <title>This startup’s new mechanistic interpretability tool lets you debug LLMs</title>
+      <link>https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/</link>
+      <description>The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&amp;#8230;</description>
+      <pubDate>Thu, 30 Apr 2026 15:59:41 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
