@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 15:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:30:28 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -279,15 +279,6 @@
     </item>
 
     <item>
-      <title>Tailoring AI solutions for health care needs</title>
-      <link>https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/</link>
-      <description>The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining&amp;#8230;</description>
-      <pubDate>Mon, 04 May 2026 13:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Simplex rethinks software development with Codex</title>
       <link>https://openai.com/index/simplex</link>
       <description>Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/evaluating-chain-of-thought-monitorability</link>
       <description>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</description>
       <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Deepening our collaboration with the U.S. Department of Energy</title>
+      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
+      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
