@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 17:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 18:37:12 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Three things in AI to watch, according to a Nobel-winning economist</title>
+      <link>https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&amp;#8230;</description>
+      <pubDate>Mon, 11 May 2026 17:35:12 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Fostering breakthrough AI innovation through customer-back engineering</title>
       <link>https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/</link>
       <description>Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&amp;#8230;</description>
@@ -354,15 +363,6 @@
       <title>AI literacy resources for teens and parents</title>
       <link>https://openai.com/index/ai-literacy-resources-for-teens-and-parents</link>
       <description>OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.</description>
-      <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Deepening our collaboration with the U.S. Department of Energy</title>
-      <link>https://openai.com/index/us-department-of-energy-collaboration</link>
-      <description>OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.</description>
       <pubDate>Thu, 18 Dec 2025 11:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
