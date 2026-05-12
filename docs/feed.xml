@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 18:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:33:07 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,6 +297,15 @@
     </item>
 
     <item>
+      <title>What Parameter Golf taught us about AI-assisted research</title>
+      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
+      <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Simplex rethinks software development with Codex</title>
       <link>https://openai.com/index/simplex</link>
       <description>Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.</description>
@@ -354,15 +363,6 @@
       <title>One in a million: celebrating the customers shaping AI’s future</title>
       <link>https://openai.com/index/one-in-a-million-customers</link>
       <description>More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.</description>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Continuously hardening ChatGPT Atlas against prompt injection</title>
-      <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
-      <description>OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
