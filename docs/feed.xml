@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 12:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:34:23 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>The Download: China’s AI drama factory and the WHO’s missing health targets</title>
+      <link>https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with&amp;#8230;</description>
+      <pubDate>Fri, 15 May 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>How Chinese short dramas became AI content machines</title>
       <link>https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/</link>
       <description>In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/zenken</link>
       <description>By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.</description>
       <pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Announcing OpenAI Grove Cohort 2</title>
-      <link>https://openai.com/index/openai-grove</link>
-      <description>Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.</description>
-      <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
