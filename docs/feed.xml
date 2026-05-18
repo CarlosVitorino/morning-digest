@@ -5,18 +5,9 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 11:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:12:09 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <item>
-      <title>AI chatbots are giving out people’s real phone numbers</title>
-      <link>https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/</link>
-      <description>A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI.&amp;#160; In March, a software developer in Israel was contacted on WhatsApp&amp;#8230;</description>
-      <pubDate>Wed, 13 May 2026 18:09:03 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -315,18 +306,18 @@
     </item>
 
     <item>
-      <title>What Parameter Golf taught us about AI-assisted research</title>
-      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
-      <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
+      <title>AutoScout24 scales engineering with AI-powered workflows</title>
+      <link>https://openai.com/index/autoscout24</link>
+      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>AutoScout24 scales engineering with AI-powered workflows</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
+      <title>What Parameter Golf taught us about AI-assisted research</title>
+      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
+      <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/cisco</link>
       <description>Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.</description>
       <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Zenken boosts a lean sales team with ChatGPT Enterprise</title>
+      <link>https://openai.com/index/zenken</link>
+      <description>By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.</description>
+      <pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
