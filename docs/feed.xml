@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 07:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:26:35 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>How small businesses can leverage AI</title>
+      <link>https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/</link>
+      <description>This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&amp;#8230;</description>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment</title>
       <link>https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/</link>
       <description>Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&amp;#8230;</description>
@@ -265,15 +274,6 @@
       <link>https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/</link>
       <description>It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&amp;#8230;</description>
       <pubDate>Thu, 28 May 2026 09:51:11 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: keeping up with AI, and the future of IVF</title>
-      <link>https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&amp;#8230;</description>
-      <pubDate>Wed, 27 May 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -333,18 +333,18 @@
     </item>
 
     <item>
-      <title>What Parameter Golf taught us about AI-assisted research</title>
-      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
-      <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
+      <title>AutoScout24 scales engineering with AI-powered workflows</title>
+      <link>https://openai.com/index/autoscout24</link>
+      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
 
     <item>
-      <title>AutoScout24 scales engineering with AI-powered workflows</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
+      <title>What Parameter Golf taught us about AI-assisted research</title>
+      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
+      <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
