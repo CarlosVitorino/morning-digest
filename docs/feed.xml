@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:03:15 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,24 @@
     </item>
 
     <item>
+      <title>Learning to lead in a hybrid human-AI enterprise</title>
+      <link>https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/</link>
+      <description>As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&amp;#8230;</description>
+      <pubDate>Tue, 09 Jun 2026 10:20:06 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Five things you need to know about AI</title>
+      <link>https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/</link>
+      <description>At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&amp;#8230;</description>
+      <pubDate>Tue, 09 Jun 2026 09:16:45 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AI hacking beyond Mythos, and chatbots&amp;#8217; impact on our brains</title>
       <link>https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was&amp;#8230;</description>
@@ -283,24 +301,6 @@
       <link>https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/</link>
       <description>Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&amp;#8230;</description>
       <pubDate>Thu, 04 Jun 2026 10:50:18 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: Trump&amp;#8217;s new AI order, and smart glasses for warfare</title>
-      <link>https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. 5 key points in Trump&amp;#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&amp;#8230;</description>
-      <pubDate>Wed, 03 Jun 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI can run your admin department now</title>
-      <link>https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&amp;#8230;</description>
-      <pubDate>Tue, 02 Jun 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
