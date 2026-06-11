@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 13:16:28 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -245,7 +245,7 @@
     <item>
       <title>Google DeepMind is worried about what happens when millions of agents start to interact</title>
       <link>https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/</link>
-      <description>Google DeepMind is funding research into the potential dangers of millions of different AI agents interacting with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates&amp;#8230;</description>
+      <description>Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&amp;#8230;</description>
       <pubDate>Thu, 11 Jun 2026 11:00:45 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
@@ -265,15 +265,6 @@
       <link>https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/</link>
       <description>As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&amp;#8230;</description>
       <pubDate>Tue, 09 Jun 2026 10:20:06 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Five things you need to know about AI</title>
-      <link>https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/</link>
-      <description>At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&amp;#8230;</description>
-      <pubDate>Tue, 09 Jun 2026 09:16:45 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -351,6 +342,15 @@
     </item>
 
     <item>
+      <title>AutoScout24 scales engineering with AI-powered workflows</title>
+      <link>https://openai.com/index/autoscout24</link>
+      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>What Parameter Golf taught us about AI-assisted research</title>
       <link>https://openai.com/index/what-parameter-golf-taught-us</link>
       <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
@@ -360,10 +360,10 @@
     </item>
 
     <item>
-      <title>AutoScout24 scales engineering with AI-powered workflows</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <title>Simplex rethinks software development with Codex</title>
+      <link>https://openai.com/index/simplex</link>
+      <description>Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
