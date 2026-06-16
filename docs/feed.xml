@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:46:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 13:43:56 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: the first brain implant power user and South Korea’s AI obsession</title>
+      <link>https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost&amp;#8230;</description>
+      <pubDate>Tue, 16 Jun 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Why do South Koreans love AI so much?</title>
       <link>https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
       <description>Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.</description>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
-      <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
-      <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
-      <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
