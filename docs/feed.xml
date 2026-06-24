@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:43:58 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The emergence of the web data infrastructure layer for AI</title>
+      <link>https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/</link>
+      <description>AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&amp;#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&amp;#8230;</description>
+      <pubDate>Wed, 24 Jun 2026 11:59:54 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
       <link>https://openai.com/index/patch-the-planet</link>
       <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
       <description>Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.</description>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting </title>
-      <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
-      <description>OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.</description>
-      <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
