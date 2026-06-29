@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 23:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:41:05 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -261,6 +261,15 @@
     </item>
 
     <item>
+      <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/hp-frontier-partnership</link>
+      <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
+      <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
       <link>https://openai.com/index/patch-the-planet</link>
       <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
@@ -342,15 +351,6 @@
     </item>
 
     <item>
-      <title>AutoScout24 scales engineering with AI-powered workflows</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
       <title>What Parameter Golf taught us about AI-assisted research</title>
       <link>https://openai.com/index/what-parameter-golf-taught-us</link>
       <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
@@ -360,10 +360,10 @@
     </item>
 
     <item>
-      <title>Simplex rethinks software development with Codex</title>
-      <link>https://openai.com/index/simplex</link>
-      <description>Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <title>AutoScout24 scales engineering with AI-powered workflows</title>
+      <link>https://openai.com/index/autoscout24</link>
+      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
