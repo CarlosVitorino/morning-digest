@@ -5,18 +5,9 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:27:02 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <item>
-      <title>Repositioning retail for the AI era</title>
-      <link>https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/</link>
-      <description>Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&amp;#8230;</description>
-      <pubDate>Thu, 25 Jun 2026 14:22:59 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/ramp</link>
       <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>A new personal finance experience in ChatGPT</title>
+      <link>https://openai.com/index/personal-finance-chatgpt</link>
+      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
