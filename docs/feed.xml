@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 21:29:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:24:10 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,6 +297,15 @@
     </item>
 
     <item>
+      <title>Meta-Harness R&amp;D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows</title>
+      <link>https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows</link>
+      <description>How autonomous code improvement can be made disciplined enough for enterprise use</description>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
       <link>https://openai.com/index/patch-the-planet</link>
       <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/ramp</link>
       <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>A new personal finance experience in ChatGPT</title>
-      <link>https://openai.com/index/personal-finance-chatgpt</link>
-      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
