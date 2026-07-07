@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:48:01 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,24 @@
     </item>
 
     <item>
+      <title>The Download: your stake in OpenAI, and the Treasury&amp;#8217;s AI warning</title>
+      <link>https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&amp;#8230;</description>
+      <pubDate>Tue, 07 Jul 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The foundational elements of AI architecture that IT leaders need to scale</title>
+      <link>https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/</link>
+      <description>With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&amp;#8230;</description>
+      <pubDate>Tue, 07 Jul 2026 11:10:52 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Your family&amp;#8217;s $300 stake in OpenAI</title>
       <link>https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&amp;#8230;</description>
@@ -265,24 +283,6 @@
       <link>https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/</link>
       <description>Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&amp;#8230;</description>
       <pubDate>Thu, 02 Jul 2026 15:37:08 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Teaching AI to run with the turbines</title>
-      <link>https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/</link>
-      <description>Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&amp;#8230;</description>
-      <pubDate>Thu, 02 Jul 2026 12:51:44 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: a startup has a solution for AI’s groupthink problem</title>
-      <link>https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&amp;#8230;</description>
-      <pubDate>Thu, 02 Jul 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
