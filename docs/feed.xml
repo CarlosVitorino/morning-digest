@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:48:20 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: a donor conception cap and world models for AI</title>
+      <link>https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&amp;#8230;</description>
+      <pubDate>Mon, 13 Jul 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: Claude&amp;#8217;s inner workings and OpenAI&amp;#8217;s &amp;#8220;super app&amp;#8221;</title>
       <link>https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/personal-finance-chatgpt</link>
       <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Sea&apos;s View on the Future of Agentic Software Development with Codex</title>
-      <link>https://openai.com/index/sea-david-chen</link>
-      <description>Sea Limited&apos;s CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.</description>
-      <pubDate>Thu, 14 May 2026 20:30:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
