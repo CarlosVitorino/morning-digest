@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:30:01 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,15 +297,6 @@
     </item>
 
     <item>
-      <title>AI is more likely than humans to form biases when hiring</title>
-      <link>https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/</link>
-      <description>The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&amp;#8230;</description>
-      <pubDate>Mon, 20 Jul 2026 08:39:01 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
       <link>https://openai.com/index/hp-frontier-partnership</link>
       <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/warp</link>
       <description>Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.</description>
       <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Ramp engineers accelerate code review with Codex</title>
+      <link>https://openai.com/index/ramp</link>
+      <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
