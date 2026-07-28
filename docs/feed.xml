@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:33:12 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>The Download: OpenAI&amp;#8217;s predictable hack, and an AI stock sell-off</title>
+      <link>https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&amp;#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&amp;#8230;</description>
+      <pubDate>Tue, 28 Jul 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.</title>
       <link>https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/personal-finance-chatgpt</link>
       <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Sea&apos;s View on the Future of Agentic Software Development with Codex</title>
-      <link>https://openai.com/index/sea-david-chen</link>
-      <description>Sea Limited&apos;s CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.</description>
-      <pubDate>Thu, 14 May 2026 20:30:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
