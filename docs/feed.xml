@@ -5,9 +5,18 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 07:55:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:57:29 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Building the enterprise environment for agentic AI</title>
+      <link>https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/</link>
+      <description>For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&amp;#8230;</description>
+      <pubDate>Mon, 27 Jul 2026 11:32:58 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -243,6 +252,42 @@
     </item>
 
     <item>
+      <title>The Download: OpenAI&amp;#8217;s predictable hack, and an AI stock sell-off</title>
+      <link>https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&amp;#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&amp;#8230;</description>
+      <pubDate>Tue, 28 Jul 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.</title>
+      <link>https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&amp;#8230;</description>
+      <pubDate>Mon, 27 Jul 2026 18:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The path to artificial superintelligence</title>
+      <link>https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/</link>
+      <description>Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&amp;#8230;</description>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Closing the data loop in AI-driven drug discovery</title>
+      <link>https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/</link>
+      <description>Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&amp;#8230;</description>
+      <pubDate>Mon, 27 Jul 2026 11:40:16 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Scientific computing in the age of agentic AI</title>
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
       <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
@@ -319,51 +364,6 @@
       <link>https://openai.com/index/ramp</link>
       <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>A new personal finance experience in ChatGPT</title>
-      <link>https://openai.com/index/personal-finance-chatgpt</link>
-      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Sea&apos;s View on the Future of Agentic Software Development with Codex</title>
-      <link>https://openai.com/index/sea-david-chen</link>
-      <description>Sea Limited&apos;s CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.</description>
-      <pubDate>Thu, 14 May 2026 20:30:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>AutoScout24 scales engineering with AI-powered workflows</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <description>Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>What Parameter Golf taught us about AI-assisted research</title>
-      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
-      <description>Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Simplex rethinks software development with Codex</title>
-      <link>https://openai.com/index/simplex</link>
-      <description>Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
