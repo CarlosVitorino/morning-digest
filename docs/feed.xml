@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:33:37 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -279,15 +279,6 @@
     </item>
 
     <item>
-      <title>The path to artificial superintelligence</title>
-      <link>https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/</link>
-      <description>Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&amp;#8230;</description>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Scientific computing in the age of agentic AI</title>
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
       <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/ramp</link>
       <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>A new personal finance experience in ChatGPT</title>
+      <link>https://openai.com/index/personal-finance-chatgpt</link>
+      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
