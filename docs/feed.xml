@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 07:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 09:05:47 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Here’s why AI agents lie and cheat to reach their goals</title>
+      <link>https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/</link>
+      <description>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&amp;#8230;</description>
+      <pubDate>Mon, 03 Aug 2026 08:30:05 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>A fundamental flaw leaves LLMs strikingly vulnerable to attack</title>
       <link>https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/</link>
       <description>It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/personal-finance-chatgpt</link>
       <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Sea&apos;s View on the Future of Agentic Software Development with Codex</title>
-      <link>https://openai.com/index/sea-david-chen</link>
-      <description>Sea Limited&apos;s CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.</description>
-      <pubDate>Thu, 14 May 2026 20:30:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
