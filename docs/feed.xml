@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:50:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:34:41 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>AI professors are negotiating the new realities of academic research</title>
+      <link>https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&amp;#8230;</description>
+      <pubDate>Mon, 10 Aug 2026 20:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AI agents for science, and the &amp;#8220;censorship-industrial complex&amp;#8221;</title>
       <link>https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&amp;#8230;</description>
@@ -283,15 +292,6 @@
       <link>https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&amp;#8230;</description>
       <pubDate>Thu, 06 Aug 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: US robot restrictions and ICE&amp;#8217;s DNA grab</title>
-      <link>https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&amp;#160; Humanoid robots usually elicit more cringe than awe: They&amp;#160;stumble,&amp;#160;kick children, and despite advances are still worse at&amp;#160;using their hands&amp;#160;than my toddler. It’s&amp;#8230;</description>
-      <pubDate>Tue, 04 Aug 2026 12:14:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
