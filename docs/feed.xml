@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:57:00 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>How kids feel about AI, in their own words</title>
+      <link>https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/</link>
+      <description>When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&amp;#8230;</description>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Scaling AI agents with trustworthy data</title>
       <link>https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/</link>
       <description>Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&amp;#8230;</description>
@@ -282,15 +291,6 @@
       <title>AI for science needs reasoning, not just data</title>
       <link>https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/</link>
       <description>Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&amp;#8230;</description>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>These startups are chasing the next big thing in LLMs</title>
-      <link>https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/</link>
-      <description>MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&amp;#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&amp;#8230;</description>
       <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
