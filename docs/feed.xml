@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:32:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:36:42 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,9 +252,18 @@
     </item>
 
     <item>
+      <title>The Download: how people really use AI, and Flock&amp;#8217;s design choices</title>
+      <link>https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&amp;#8230;</description>
+      <pubDate>Tue, 18 Aug 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>We still don’t know how people are really using AI</title>
       <link>https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/</link>
-      <description>AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&amp;#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&amp;#8230;</description>
+      <description>AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&amp;#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&amp;#8230;</description>
       <pubDate>Tue, 18 Aug 2026 10:06:43 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/personal-finance-chatgpt</link>
       <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Sea&apos;s View on the Future of Agentic Software Development with Codex</title>
-      <link>https://openai.com/index/sea-david-chen</link>
-      <description>Sea Limited&apos;s CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.</description>
-      <pubDate>Thu, 14 May 2026 20:30:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
