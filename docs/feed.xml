@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:25:43 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -288,6 +288,15 @@
     </item>
 
     <item>
+      <title>Replit expands access to software creation with GPT-5.6 Luna</title>
+      <link>https://openai.com/index/replit</link>
+      <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Scientific computing in the age of agentic AI</title>
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
       <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/warp</link>
       <description>Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.</description>
       <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Ramp engineers accelerate code review with Codex</title>
-      <link>https://openai.com/index/ramp</link>
-      <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
