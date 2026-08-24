@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:39:28 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Kids outlearn AI—and we still don&amp;#8217;t know why</title>
+      <link>https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/</link>
+      <description>People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&amp;#160; Now there are two.&amp;#160; Four short years after the release of ChatGPT,&amp;#8230;</description>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: threats from space mirrors and credit for AI drugs</title>
       <link>https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&amp;#8230;</description>
@@ -265,15 +274,6 @@
       <link>https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/</link>
       <description>“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&amp;#8230;</description>
       <pubDate>Thu, 20 Aug 2026 15:42:39 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI’s self-improvement problem, and what’s driving the heat</title>
-      <link>https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&amp;#8230;</description>
-      <pubDate>Wed, 19 Aug 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
