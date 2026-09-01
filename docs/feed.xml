@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:55:36 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,19 +243,19 @@
     </item>
 
     <item>
-      <title>The Hugging Face hack could indicate cultural issues at OpenAI</title>
-      <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&amp;#8230;</description>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 GMT</pubDate>
+      <title>Making the AI-powered case for legacy modernization</title>
+      <link>https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/</link>
+      <description>For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&amp;#8230;</description>
+      <pubDate>Tue, 01 Sep 2026 14:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
 
     <item>
-      <title>The Download: the Kids issue arrives, and Bill Gates reveals his AI fears</title>
-      <link>https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&amp;#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&amp;#8230;</description>
-      <pubDate>Wed, 26 Aug 2026 12:10:00 GMT</pubDate>
+      <title>The Hugging Face hack could indicate cultural issues at OpenAI</title>
+      <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&amp;#8230;</description>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
