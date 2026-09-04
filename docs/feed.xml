@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:41:32 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: selling battlefield drone data and AI reshaping language</title>
+      <link>https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&amp;#8217;s impact on democracy, who previously served in the&amp;#8230;</description>
+      <pubDate>Fri, 04 Sep 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Scaling agentic AI pilots across the enterprise</title>
       <link>https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/</link>
       <description>As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/endava-frontiers</link>
       <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Braintrust turns customer requests into code with Codex</title>
-      <link>https://openai.com/index/braintrust</link>
-      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
