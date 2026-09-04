@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:28:35 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -288,15 +288,6 @@
     </item>
 
     <item>
-      <title>The Hugging Face hack could indicate cultural issues at OpenAI</title>
-      <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&amp;#8230;</description>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>How AI-native companies turn workflows into operating capability</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/endava-frontiers</link>
       <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Braintrust turns customer requests into code with Codex</title>
+      <link>https://openai.com/index/braintrust</link>
+      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
