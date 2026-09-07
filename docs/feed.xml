@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:02:22 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,15 +297,6 @@
     </item>
 
     <item>
-      <title>Making the AI-powered case for legacy modernization</title>
-      <link>https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/</link>
-      <description>For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&amp;#8230;</description>
-      <pubDate>Tue, 01 Sep 2026 14:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>How AI-native companies turn workflows into operating capability</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
       <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
