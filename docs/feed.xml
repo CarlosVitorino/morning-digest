@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:58:19 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,15 +252,6 @@
     </item>
 
     <item>
-      <title>Architecting memory and storage in the AI era</title>
-      <link>https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/</link>
-      <description>The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&amp;#8230;</description>
-      <pubDate>Fri, 04 Sep 2026 18:39:19 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>How AI-native companies turn workflows into operating capability</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/ramp</link>
       <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>A new personal finance experience in ChatGPT</title>
+      <link>https://openai.com/index/personal-finance-chatgpt</link>
+      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
