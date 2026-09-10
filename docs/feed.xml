@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:36:42 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,10 +243,19 @@
     </item>
 
     <item>
-      <title>This AI entrepreneur is developing agents that can plan ahead for the unexpected</title>
-      <link>https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/</link>
-      <description>Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&amp;#8230;</description>
-      <pubDate>Tue, 08 Sep 2026 10:34:00 GMT</pubDate>
+      <title>Powering AI is an architecture problem</title>
+      <link>https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/</link>
+      <description>On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&amp;#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&amp;#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&amp;#8230;</description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Healthcare AI’s next test is integration</title>
+      <link>https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/</link>
+      <description>The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who&amp;#8230;</description>
+      <pubDate>Thu, 10 Sep 2026 08:58:01 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/ramp</link>
       <description>How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.</description>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>A new personal finance experience in ChatGPT</title>
-      <link>https://openai.com/index/personal-finance-chatgpt</link>
-      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
