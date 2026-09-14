@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:17:40 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The AI industry has taken a doomer turn. What now?</title>
+      <link>https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</link>
+      <description>This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&amp;#8230;</description>
+      <pubDate>Mon, 14 Sep 2026 17:54:22 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>AI agents blew the whistle on their cheating colleagues</title>
       <link>https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</link>
       <description>A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/endava-frontiers</link>
       <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Braintrust turns customer requests into code with Codex</title>
-      <link>https://openai.com/index/braintrust</link>
-      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
