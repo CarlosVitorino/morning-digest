@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:08:57 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -270,6 +270,15 @@
     </item>
 
     <item>
+      <title>Roundtables: Could AI really kill us all?</title>
+      <link>https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/</link>
+      <description>Employees at the world&amp;#8217;s leading AI labs are saying there&amp;#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&amp;#8230;</description>
+      <pubDate>Fri, 11 Sep 2026 20:05:06 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Powering AI is an architecture problem</title>
       <link>https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/</link>
       <description>On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&amp;#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&amp;#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
       <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Endava is redesigning software delivery around AI agents</title>
-      <link>https://openai.com/index/endava-frontiers</link>
-      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
