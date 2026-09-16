@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:16:13 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,24 @@
     </item>
 
     <item>
+      <title>Building the materials foundation for AI</title>
+      <link>https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/</link>
+      <description>The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&amp;#8230;</description>
+      <pubDate>Wed, 16 Sep 2026 12:47:34 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The Download: AI’s trillion-dollar gamble and OpenAI&amp;#8217;s biology data bid</title>
+      <link>https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&amp;#8230;</description>
+      <pubDate>Wed, 16 Sep 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Roundtables: Could AI really kill us all?</title>
       <link>https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/</link>
       <description>Listen to the session or watch below Employees at the world&amp;#8217;s leading AI labs are saying there&amp;#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&amp;#8230;</description>
@@ -346,24 +364,6 @@
       <link>https://openai.com/index/replit</link>
       <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
       <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Scientific computing in the age of agentic AI</title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
-      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
-      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
-      <link>https://openai.com/index/hp-frontier-partnership</link>
-      <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
-      <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
