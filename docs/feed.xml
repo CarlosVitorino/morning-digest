@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:17:42 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -315,15 +315,6 @@
     </item>
 
     <item>
-      <title>The Download: AI’s real extinction threat and age-reversal tech for eyes</title>
-      <link>https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&amp;#8217;s leading AI labs are saying there&amp;#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&amp;#8230;</description>
-      <pubDate>Mon, 14 Sep 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
       <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/replit</link>
       <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
       <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Scientific computing in the age of agentic AI</title>
+      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
+      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
