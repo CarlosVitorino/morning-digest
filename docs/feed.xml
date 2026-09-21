@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:06:38 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -270,42 +270,6 @@
     </item>
 
     <item>
-      <title>Building the materials foundation for AI</title>
-      <link>https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/</link>
-      <description>The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&amp;#8230;</description>
-      <pubDate>Wed, 16 Sep 2026 12:47:34 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI’s trillion-dollar gamble and OpenAI&amp;#8217;s biology data bid</title>
-      <link>https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&amp;#8230;</description>
-      <pubDate>Wed, 16 Sep 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Roundtables: Could AI really kill us all?</title>
-      <link>https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/</link>
-      <description>Listen to the session or watch below Employees at the world&amp;#8217;s leading AI labs are saying there&amp;#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&amp;#8230;</description>
-      <pubDate>Tue, 15 Sep 2026 17:47:51 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI doomers, whistleblowing agents, and de-aged livers</title>
-      <link>https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&amp;#8230;</description>
-      <pubDate>Tue, 15 Sep 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
       <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
@@ -364,6 +328,42 @@
       <link>https://openai.com/index/hp-frontier-partnership</link>
       <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
       <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Supporting Europe’s work in ensuring a trustworthy AI ecosystem </title>
+      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+      <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Braintrust turns customer requests into code with Codex</title>
+      <link>https://openai.com/index/braintrust</link>
+      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
