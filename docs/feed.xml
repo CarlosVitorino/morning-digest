@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:07:38 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -279,15 +279,6 @@
     </item>
 
     <item>
-      <title>The specter of AI-enabled bioweapons is a wake-up call for biotech</title>
-      <link>https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/</link>
-      <description>In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&amp;#8230;</description>
-      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
       <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
       <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
