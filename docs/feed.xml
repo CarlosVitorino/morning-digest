@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:07:08 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>The Download: why AI’s latest breakthroughs and fears may be more hype than reality</title>
+      <link>https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&amp;#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&amp;#8230;</description>
+      <pubDate>Tue, 22 Sep 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AI’s extinction risk and bioweapons threat</title>
       <link>https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
       <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Endava is redesigning software delivery around AI agents</title>
-      <link>https://openai.com/index/endava-frontiers</link>
-      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
