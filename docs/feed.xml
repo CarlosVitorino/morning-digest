@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:07:32 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -270,15 +270,6 @@
     </item>
 
     <item>
-      <title>Could AI really kill us all? Your questions, answered.</title>
-      <link>https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/</link>
-      <description>On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&amp;#8230;</description>
-      <pubDate>Fri, 18 Sep 2026 11:29:22 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
       <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/endava-frontiers</link>
       <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Braintrust turns customer requests into code with Codex</title>
+      <link>https://openai.com/index/braintrust</link>
+      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
