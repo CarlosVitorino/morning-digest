@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:09:52 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>When can we say AI made a scientific discovery?</title>
+      <link>https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&amp;#8230;</description>
+      <pubDate>Mon, 28 Sep 2026 17:03:16 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: rogue agent liability and the AI Hype Index</title>
       <link>https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Who&amp;#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&amp;#8230;</description>
@@ -306,12 +315,12 @@
     </item>
 
     <item>
-      <title>The AI Hype Index: AI loves cheating</title>
-      <link>https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/</link>
-      <description>Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&amp;#8230;</description>
-      <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
+      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
       <category>ai</category>
-      <source>MIT Technology Review</source>
+      <source>OpenAI Blog</source>
     </item>
 
     <item>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/replit</link>
       <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
       <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Scientific computing in the age of agentic AI</title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
-      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
-      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
