@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:11:34 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: OpenAI’s chief research officer explains its hacking response</title>
+      <link>https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&amp;#8230;</description>
+      <pubDate>Wed, 30 Sep 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: climate tech companies to watch and AI’s discovery problem</title>
       <link>https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&amp;#8230;</description>
@@ -292,15 +301,6 @@
       <link>https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&amp;#8230;</description>
       <pubDate>Fri, 25 Sep 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Pentagon wants $30 million to build an AI-powered lie detector</title>
-      <link>https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</link>
-      <description>The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&amp;#8230;</description>
-      <pubDate>Fri, 25 Sep 2026 09:16:25 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
