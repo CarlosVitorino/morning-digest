@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:42:37 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,42 @@
     </item>
 
     <item>
+      <title>Connecting AI agents to enterprise knowledge</title>
+      <link>https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/</link>
+      <description>For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&amp;#8230;</description>
+      <pubDate>Mon, 05 Oct 2026 15:47:52 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Bringing predictive analytics to the agentic AI era</title>
+      <link>https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/</link>
+      <description>In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&amp;#8230;</description>
+      <pubDate>Mon, 05 Oct 2026 13:29:32 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>The Download: AI’s popularity paradox and EmTech Future 2026</title>
+      <link>https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&amp;#8230;</description>
+      <pubDate>Mon, 05 Oct 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>People really hate AI, so why can’t they get enough?</title>
+      <link>https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</link>
+      <description>Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&amp;#8230;</description>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>EmTech Future 2026: When AI Meets Everything</title>
       <link>https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/</link>
       <description>Yossi Matias, Vice President &amp;#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&amp;#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&amp;#8230;</description>
@@ -265,24 +301,6 @@
       <link>https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&amp;#8230;</description>
       <pubDate>Thu, 01 Oct 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan</title>
-      <link>https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/</link>
-      <description>A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&amp;#160; In the image above, for example, the left-hand image of each pair is what&amp;#8230;</description>
-      <pubDate>Thu, 01 Oct 2026 10:32:24 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: OpenAI’s chief research officer explains its hacking response</title>
-      <link>https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&amp;#8230;</description>
-      <pubDate>Wed, 30 Sep 2026 12:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -346,24 +364,6 @@
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
       <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
       <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
-      <link>https://openai.com/index/hp-frontier-partnership</link>
-      <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
-      <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
-      <link>https://openai.com/index/patch-the-planet</link>
-      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
