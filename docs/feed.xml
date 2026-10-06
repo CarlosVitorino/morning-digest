@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:40:19 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,69 +243,6 @@
     </item>
 
     <item>
-      <title>Connecting AI agents to enterprise knowledge</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/</link>
-      <description>For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&amp;#8230;</description>
-      <pubDate>Mon, 05 Oct 2026 15:47:52 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Bringing predictive analytics to the agentic AI era</title>
-      <link>https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/</link>
-      <description>In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&amp;#8230;</description>
-      <pubDate>Mon, 05 Oct 2026 13:29:32 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI’s popularity paradox and EmTech Future 2026</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&amp;#8230;</description>
-      <pubDate>Mon, 05 Oct 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>People really hate AI, so why can’t they get enough?</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</link>
-      <description>Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&amp;#8230;</description>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>EmTech Future 2026: When AI Meets Everything</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/</link>
-      <description>Yossi Matias, Vice President &amp;#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&amp;#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&amp;#8230;</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Redefining enterprise intelligence with autonomous AI</title>
-      <link>https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/</link>
-      <description>Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&amp;#8230;</description>
-      <pubDate>Fri, 02 Oct 2026 15:49:04 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: AI “mind-reading” and creative uses for small batteries</title>
-      <link>https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&amp;#8230;</description>
-      <pubDate>Thu, 01 Oct 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
       <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
       <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
@@ -364,6 +301,69 @@
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
       <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
       <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/hp-frontier-partnership</link>
+      <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
+      <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Supporting Europe’s work in ensuring a trustworthy AI ecosystem </title>
+      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+      <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Braintrust turns customer requests into code with Codex</title>
+      <link>https://openai.com/index/braintrust</link>
+      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Strengthening societal resilience with Rosalind Biodefense</title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
+      <description>OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.</description>
+      <pubDate>Fri, 29 May 2026 03:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Warp’s big bet on building open source with GPT-5.5</title>
+      <link>https://openai.com/index/warp</link>
+      <description>Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
