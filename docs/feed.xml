@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:01:58 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,33 @@
     </item>
 
     <item>
+      <title>The Download: AI roadblocks for humanoids and portable rubber dams</title>
+      <link>https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&amp;#8230;</description>
+      <pubDate>Thu, 08 Oct 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>AI breakthroughs in robotics won&amp;#8217;t change your life any time soon</title>
+      <link>https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/</link>
+      <description>The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&amp;#8230;</description>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Building a safer path to autonomous industrial AI</title>
+      <link>https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/</link>
+      <description>Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&amp;#8230;</description>
+      <pubDate>Thu, 08 Oct 2026 08:17:32 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Sharing AI progress in mathematics</title>
       <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
       <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</description>
@@ -337,33 +364,6 @@
       <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
       <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Endava is redesigning software delivery around AI agents</title>
-      <link>https://openai.com/index/endava-frontiers</link>
-      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Braintrust turns customer requests into code with Codex</title>
-      <link>https://openai.com/index/braintrust</link>
-      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Strengthening societal resilience with Rosalind Biodefense</title>
-      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
-      <description>OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.</description>
-      <pubDate>Fri, 29 May 2026 03:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
