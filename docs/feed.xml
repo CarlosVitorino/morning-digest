@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 21:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:38:19 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Roundtables: A Conversation With the Creator of AI-Designed Viruses</title>
+      <link>https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/</link>
+      <description>Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&amp;#8230;</description>
+      <pubDate>Fri, 09 Oct 2026 00:08:24 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AI roadblocks for humanoids and portable rubber dams</title>
       <link>https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/patch-the-planet</link>
       <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
       <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Supporting Europe’s work in ensuring a trustworthy AI ecosystem </title>
-      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-      <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
