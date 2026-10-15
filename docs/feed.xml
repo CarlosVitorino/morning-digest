@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 05:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:42:12 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -261,24 +261,6 @@
     </item>
 
     <item>
-      <title>The Download: AI’s refusal problem and weight-loss drug side effects</title>
-      <link>https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&amp;#8230;</description>
-      <pubDate>Fri, 09 Oct 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>We’re putting too much faith in AI’s ability to say no</title>
-      <link>https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/</link>
-      <description>Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&amp;#160; But recently, the idea that AI shouldn’t&amp;#8230;</description>
-      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
       <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
@@ -364,6 +346,24 @@
       <link>https://openai.com/index/hp-frontier-partnership</link>
       <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
       <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Supporting Europe’s work in ensuring a trustworthy AI ecosystem </title>
+      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+      <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
