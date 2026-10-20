@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:08:06 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -252,6 +252,15 @@
     </item>
 
     <item>
+      <title>The new economics of enterprise AI</title>
+      <link>https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/</link>
+      <description>Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &amp;#8220;can we use it?&amp;#8221; to &amp;#8220;how efficiently are we using it?&amp;#8221;&amp;#8230;</description>
+      <pubDate>Tue, 20 Oct 2026 15:20:25 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: the claim shaking up AI and the internet’s agent problem</title>
       <link>https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&amp;#8230;</description>
@@ -292,15 +301,6 @@
       <link>https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,&amp;#8230;</description>
       <pubDate>Mon, 19 Oct 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</title>
-      <link>https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/</link>
-      <description>What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&amp;#8230;</description>
-      <pubDate>Mon, 19 Oct 2026 09:08:05 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
