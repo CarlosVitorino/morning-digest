@@ -5,27 +5,9 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:06:37 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <item>
-      <title>Astrolab’s upcoming rover will run the first LLMs on the moon</title>
-      <link>https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/</link>
-      <description>Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Innovation Platform,” is the first in a series&amp;#8230;</description>
-      <pubDate>Tue, 20 Oct 2026 20:07:21 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>AI adoption by industry shows what other sectors can learn</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/</link>
-      <description>The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&amp;#8230;</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
     <item>
       <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
       <link>https://openai.com/index/introducing-aardvark</link>
@@ -261,55 +243,10 @@
     </item>
 
     <item>
-      <title>The new economics of enterprise AI</title>
-      <link>https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/</link>
-      <description>Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &amp;#8220;can we use it?&amp;#8221; to &amp;#8220;how efficiently are we using it?&amp;#8221;&amp;#8230;</description>
-      <pubDate>Tue, 20 Oct 2026 15:20:25 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: the claim shaking up AI and the internet’s agent problem</title>
-      <link>https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&amp;#8230;</description>
-      <pubDate>Tue, 20 Oct 2026 12:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>A visit to Samsung’s massive new semiconductor hub</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/</link>
-      <description>Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&amp;#8230;</description>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Making the internet better for AI agents might make it worse for everyone else</title>
-      <link>https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&amp;#8230;</description>
-      <pubDate>Mon, 19 Oct 2026 18:22:47 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>“We were looking at it wrong”: The explosive claim that’s upended the AI world</title>
-      <link>https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/</link>
-      <description>“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&amp;#8230;</description>
-      <pubDate>Mon, 19 Oct 2026 17:45:55 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: preserving the Arctic permafrost, and playful AI agents</title>
-      <link>https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,&amp;#8230;</description>
-      <pubDate>Mon, 19 Oct 2026 12:10:00 GMT</pubDate>
+      <title>Robotic therapy for stroke patients</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/</link>
+      <description>Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&amp;#160; Johannes Lachner, a former MIT postdoc who is now an assistant professor&amp;#8230;</description>
+      <pubDate>Tue, 20 Oct 2026 21:00:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
@@ -364,6 +301,69 @@
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
       <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
+      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+      <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.</description>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Replit expands access to software creation with GPT-5.6 Luna</title>
+      <link>https://openai.com/index/replit</link>
+      <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Scientific computing in the age of agentic AI</title>
+      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
+      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/hp-frontier-partnership</link>
+      <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
+      <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Supporting Europe’s work in ensuring a trustworthy AI ecosystem </title>
+      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+      <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
