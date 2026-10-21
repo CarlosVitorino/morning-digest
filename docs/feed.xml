@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:08:06 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,15 +243,6 @@
     </item>
 
     <item>
-      <title>Robotic therapy for stroke patients</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/</link>
-      <description>Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&amp;#160; Johannes Lachner, a former MIT postdoc who is now an assistant professor&amp;#8230;</description>
-      <pubDate>Tue, 20 Oct 2026 21:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
       <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/endava-frontiers</link>
       <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How Braintrust turns customer requests into code with Codex</title>
+      <link>https://openai.com/index/braintrust</link>
+      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
