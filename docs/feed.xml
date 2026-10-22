@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:06:34 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>AI&amp;#8217;s hidden storage bill: What inference leaves behind</title>
+      <link>https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/</link>
+      <description>Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&amp;#8230;</description>
+      <pubDate>Thu, 22 Oct 2026 08:41:18 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
       <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/endava-frontiers</link>
       <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Braintrust turns customer requests into code with Codex</title>
-      <link>https://openai.com/index/braintrust</link>
-      <description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
