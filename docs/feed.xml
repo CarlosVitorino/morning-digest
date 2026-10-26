@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:07:31 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>Will the real Anthropic please stand up</title>
+      <link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&amp;#8230;</description>
+      <pubDate>Mon, 26 Oct 2026 17:45:43 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: everyday AI harms and the race to nuclear spaceflight</title>
       <link>https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&amp;#8230;</description>
@@ -274,15 +283,6 @@
       <link>https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/</link>
       <description>Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&amp;#8230;</description>
       <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>AI&amp;#8217;s hidden storage bill: What inference leaves behind</title>
-      <link>https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/</link>
-      <description>Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&amp;#8230;</description>
-      <pubDate>Thu, 22 Oct 2026 08:41:18 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
