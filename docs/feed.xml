@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:07:21 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>How solid-state transformers could help power the AI boom</title>
+      <link>https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/</link>
+      <description>Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&amp;#160; As the world races to meet rising electricity demand from&amp;#8230;</description>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Will the real Anthropic please stand up</title>
       <link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/gpt-5-6-in-kiro</link>
       <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.</description>
       <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Replit expands access to software creation with GPT-5.6 Luna</title>
-      <link>https://openai.com/index/replit</link>
-      <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
