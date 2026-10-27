@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:04:30 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,6 +297,15 @@
     </item>
 
     <item>
+      <title>How Grupo Boticário uses AI to strengthen human connections</title>
+      <link>https://openai.com/index/grupo-boticario</link>
+      <description>Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
       <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/gpt-5-6-in-kiro</link>
       <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.</description>
       <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Replit expands access to software creation with GPT-5.6 Luna</title>
-      <link>https://openai.com/index/replit</link>
-      <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
