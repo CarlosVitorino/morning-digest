@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:11:05 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -288,15 +288,6 @@
     </item>
 
     <item>
-      <title>Making the case for context-aware AI</title>
-      <link>https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/</link>
-      <description>Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&amp;#8230;</description>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
       <link>https://openai.com/index/greptile-code-review-codex-astra</link>
       <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/gpt-5-6-in-kiro</link>
       <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.</description>
       <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Replit expands access to software creation with GPT-5.6 Luna</title>
+      <link>https://openai.com/index/replit</link>
+      <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
