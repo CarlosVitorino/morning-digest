@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:04:43 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: dead startups fueling AI and interspecies communication</title>
+      <link>https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&amp;#8230;</description>
+      <pubDate>Wed, 28 Oct 2026 12:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>How solid-state transformers could help power the AI boom</title>
       <link>https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/</link>
       <description>Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&amp;#160; As the world races to meet rising electricity demand from&amp;#8230;</description>
@@ -274,15 +283,6 @@
       <link>https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/</link>
       <description>Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&amp;#8230;</description>
       <pubDate>Mon, 26 Oct 2026 09:01:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>Designing an AI serving harness built to last</title>
-      <link>https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/</link>
-      <description>The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&amp;#8230;</description>
-      <pubDate>Thu, 22 Oct 2026 21:17:29 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
