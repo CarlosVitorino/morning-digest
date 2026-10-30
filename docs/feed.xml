@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:05:00 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -288,15 +288,6 @@
     </item>
 
     <item>
-      <title>Will the real Anthropic please stand up</title>
-      <link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&amp;#8230;</description>
-      <pubDate>Mon, 26 Oct 2026 17:45:43 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
       <link>https://openai.com/index/greptile-code-review-codex-astra</link>
       <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
       <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
+      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+      <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.</description>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
