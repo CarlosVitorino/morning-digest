@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:50:09 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The backlash about data centers might really just be about electricity</title>
+      <link>https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/</link>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&amp;#8230;</description>
+      <pubDate>Mon, 09 Nov 2026 19:35:33 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>Nancy Pelosi’s replacement is ready to regulate AI</title>
       <link>https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/</link>
       <description>As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&amp;#160; I spoke with Wiener on Friday, only a&amp;#8230;</description>
@@ -306,6 +315,15 @@
     </item>
 
     <item>
+      <title>CodeRabbit scales agentic software development and ships 20x more</title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
       <title>Merge builds product and business tools with OpenAI technology</title>
       <link>https://openai.com/index/merge-builds-with-openai</link>
       <description>Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.</description>
@@ -346,24 +364,6 @@
       <link>https://openai.com/index/amp-beyond-coding</link>
       <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
       <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>Sharing AI progress in mathematics</title>
-      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-      <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</description>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
-      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
