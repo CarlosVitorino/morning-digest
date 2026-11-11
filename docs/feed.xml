@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:16:30 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: preserving minds and weighing open AI risks</title>
+      <link>https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&amp;#8230;</description>
+      <pubDate>Wed, 11 Nov 2026 13:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: Pelosi’s successor targets AI and data centers face power woes</title>
       <link>https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&amp;#8230;</description>
@@ -301,15 +310,6 @@
       <link>https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&amp;#8230;</description>
       <pubDate>Fri, 06 Nov 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: Texas’s fragile AI boom and energy policy shifts</title>
-      <link>https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&amp;#8217;s&amp;#8230;</description>
-      <pubDate>Thu, 05 Nov 2026 13:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
