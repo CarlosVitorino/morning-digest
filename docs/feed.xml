@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:04:16 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,15 +297,6 @@
     </item>
 
     <item>
-      <title>The climate case for AI has not been made</title>
-      <link>https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/</link>
-      <description>This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&amp;#8230;</description>
-      <pubDate>Mon, 09 Nov 2026 10:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>CodeRabbit scales agentic software development and ships 20x more</title>
       <link>https://openai.com/index/coderabbit-codex-daybreak</link>
       <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
       <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</description>
       <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
