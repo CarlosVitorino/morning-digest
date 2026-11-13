@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:13:25 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -270,15 +270,6 @@
     </item>
 
     <item>
-      <title>Nancy Pelosi’s replacement is ready to regulate AI</title>
-      <link>https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/</link>
-      <description>As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&amp;#160; I spoke with Wiener on Friday, only a&amp;#8230;</description>
-      <pubDate>Mon, 09 Nov 2026 17:05:43 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>CodeRabbit scales agentic software development and ships 20x more</title>
       <link>https://openai.com/index/coderabbit-codex-daybreak</link>
       <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
       <description>GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.</description>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>How AI-native companies turn workflows into operating capability</title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
