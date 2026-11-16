@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:32:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:46:35 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,28 +243,28 @@
     </item>
 
     <item>
+      <title>Building trustworthy AI by fencing it in, not predicting it</title>
+      <link>https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/</link>
+      <description>In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&amp;#8230;</description>
+      <pubDate>Mon, 16 Nov 2026 16:04:28 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
+      <title>Building AI that can work across the enterprise</title>
+      <link>https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/</link>
+      <description>For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&amp;#8230;</description>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: preserving minds and weighing open AI risks</title>
       <link>https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&amp;#8230;</description>
       <pubDate>Wed, 11 Nov 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: Pelosi’s successor targets AI and data centers face power woes</title>
-      <link>https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&amp;#8230;</description>
-      <pubDate>Tue, 10 Nov 2026 13:10:00 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The backlash about data centers might really just be about electricity</title>
-      <link>https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&amp;#8230;</description>
-      <pubDate>Mon, 09 Nov 2026 19:35:33 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
