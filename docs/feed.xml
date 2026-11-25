@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:05:01 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>The Download: AI swamping open records, and firefighting for permafrost</title>
+      <link>https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/</link>
+      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&amp;#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&amp;#8230;</description>
+      <pubDate>Wed, 25 Nov 2026 13:10:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>AI is straining America’s open records systems</title>
       <link>https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/</link>
       <description>In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&amp;#8230;</description>
@@ -355,15 +364,6 @@
       <link>https://openai.com/index/greptile-code-review-codex-astra</link>
       <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.</description>
       <pubDate>Mon, 26 Oct 2026 22:00:00 GMT</pubDate>
-      <category>ai</category>
-      <source>OpenAI Blog</source>
-    </item>
-
-    <item>
-      <title>How Grupo Boticário uses AI to strengthen human connections</title>
-      <link>https://openai.com/index/grupo-boticario</link>
-      <description>Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
