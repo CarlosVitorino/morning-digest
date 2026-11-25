@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:05:07 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -243,6 +243,15 @@
     </item>
 
     <item>
+      <title>How data centers are driving a US natural-gas boom</title>
+      <link>https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/</link>
+      <description>In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like&amp;#8230;</description>
+      <pubDate>Wed, 25 Nov 2026 17:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>MIT Technology Review</source>
+    </item>
+
+    <item>
       <title>The Download: AI swamping open records, and firefighting for permafrost</title>
       <link>https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/</link>
       <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&amp;#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&amp;#8230;</description>
@@ -301,15 +310,6 @@
       <link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/</link>
       <description>A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&amp;#8230;</description>
       <pubDate>Fri, 20 Nov 2026 18:15:15 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
-      <title>The Download: a living liver, a billion-dollar battery deal, and AI hype</title>
-      <link>https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/</link>
-      <description>This is today&amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&amp;#8230;</description>
-      <pubDate>Thu, 19 Nov 2026 13:10:00 GMT</pubDate>
       <category>ai</category>
       <source>MIT Technology Review</source>
     </item>
