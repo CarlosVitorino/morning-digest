@@ -5,7 +5,7 @@
     <link>https://CarlosVitorino.github.io/morning-digest/</link>
     <description>Your personalized morning news digest with clickbait filtering. Topics: Technology, Science, Business, Politics, Software Development, Gadgets.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:04:49 GMT</lastBuildDate>
     <atom:link href="https://CarlosVitorino.github.io/morning-digest/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -297,15 +297,6 @@
     </item>
 
     <item>
-      <title>A legendary philosopher isn’t buying Anthropic’s consciousness argument</title>
-      <link>https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/</link>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&amp;#8230;</description>
-      <pubDate>Mon, 23 Nov 2026 17:36:08 GMT</pubDate>
-      <category>ai</category>
-      <source>MIT Technology Review</source>
-    </item>
-
-    <item>
       <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
       <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
       <description>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.</description>
@@ -364,6 +355,15 @@
       <link>https://openai.com/index/grupo-boticario</link>
       <description>Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source>OpenAI Blog</source>
+    </item>
+
+    <item>
+      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
+      <link>https://openai.com/index/amp-beyond-coding</link>
+      <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
       <category>ai</category>
       <source>OpenAI Blog</source>
     </item>
